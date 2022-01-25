@@ -1,0 +1,8 @@
+Results for fingernews
+Precision: 0.701
+Recall: 0.794
+F-Score: 0.745
+Median: 0.0
+Mean: 286.136
+Accuracy to 161 km: 0.917
+AUC = 0.083

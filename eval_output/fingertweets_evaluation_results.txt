@@ -1,0 +1,8 @@
+Results for fingertweets
+Precision: 0.717
+Recall: 0.819
+F-Score: 0.765
+Median: 0.0
+Mean: 127.235
+Accuracy to 161 km: 0.958
+AUC = 0.093

@@ -1,0 +1,1993 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entries>
+	<entry>
+		<text>Vuodenvaihteen jälkeen 336 kuntaa – Wikiuutiset
+1. tammikuuta 2011
+Vuoden alussa tapahtui kuusi kuntaliitosta, joiden jäljiltä Suomessa on 336 kuntaa. Samalla Itä-Uudenmaan maakunta liitettiin Uudenmaan maakuntaan ja Kaakkois-Pirkanmaan seutukunta lakkautettiin, jolloin seutukuntien lukumäärä Suomessa väheni 70:een.
+Pirkanmaan kahdessa kuntaliitoksessa Kylmäkoski liittyi Akaan kaupunkiin ja Kuhmalahti Kangasalan kuntaan. Pohjois-Savossa Karttula yhdistyi Kuopion kaupunkiin ja Varpaisjärvi Lapinlahden kuntaan. Pohjanmaan maakunnassa Vöyri-Maksamaan ja Oravaisten kunnat muodostivat Vöyrin kunnan ja Päijät-Hämeessä Artjärvi liittyi osaksi Orimattilaa.
+</text>
+		<toponyms>
+			<toponym>
+				<start>127</start>
+				<end>135</end>
+				<phrase>Suomessa</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>159</start>
+				<end>172</end>
+				<phrase>Itä-Uudenmaan</phrase>
+				<place>
+					<footprint>25.66656358 60.39527324</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>193</start>
+				<end>202</end>
+				<phrase>Uudenmaan</phrase>
+				<place>
+					<footprint>24.75 60.41667</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>217</start>
+				<end>236</end>
+				<phrase>Kaakkois-Pirkanmaan</phrase>
+				<place>
+					<footprint>NaN</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>318</start>
+				<end>328</end>
+				<phrase>Pirkanmaan</phrase>
+				<place>
+					<footprint>23.71667 61.7</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>355</start>
+				<end>365</end>
+				<phrase>Kylmäkoski</phrase>
+				<place>
+					<footprint>23.68858 61.154</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>374</start>
+				<end>379</end>
+				<phrase>Akaan</phrase>
+				<place>
+					<footprint>23.86582 61.16738</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>394</start>
+				<end>404</end>
+				<phrase>Kuhmalahti</phrase>
+				<place>
+					<footprint>24.56667 61.5</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>405</start>
+				<end>415</end>
+				<phrase>Kangasalan</phrase>
+				<place>
+					<footprint>24.417 61.48598</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>425</start>
+				<end>440</end>
+				<phrase>Pohjois-Savossa</phrase>
+				<place>
+					<footprint>27.5 63.16667</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>441</start>
+				<end>449</end>
+				<phrase>Karttula</phrase>
+				<place>
+					<footprint>26.97045 62.8963</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>459</start>
+				<end>466</end>
+				<phrase>Kuopion</phrase>
+				<place>
+					<footprint>27.67703 62.89238</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>481</start>
+				<end>493</end>
+				<phrase>Varpaisjärvi</phrase>
+				<place>
+					<footprint>27.75506 63.35932</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>494</start>
+				<end>505</end>
+				<phrase>Lapinlahden</phrase>
+				<place>
+					<footprint>27.44489 63.34295</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>515</start>
+				<end>525</end>
+				<phrase>Pohjanmaan</phrase>
+				<place>
+					<footprint>22.16667 63.08333</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>538</start>
+				<end>553</end>
+				<phrase>Vöyri-Maksamaan</phrase>
+				<place>
+					<footprint>NaN</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>557</start>
+				<end>567</end>
+				<phrase>Oravaisten</phrase>
+				<place>
+					<footprint>22.37821 63.30135</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>587</start>
+				<end>593</end>
+				<phrase>Vöyrin</phrase>
+				<place>
+					<footprint>22.25223 63.13607</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>604</start>
+				<end>619</end>
+				<phrase>Päijät-Hämeessä</phrase>
+				<place>
+					<footprint>25.83333 61.25</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>620</start>
+				<end>628</end>
+				<phrase>Artjärvi</phrase>
+				<place>
+					<footprint>26.07084 60.74544</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>644</start>
+				<end>655</end>
+				<phrase>Orimattilaa</phrase>
+				<place>
+					<footprint>25.72998 60.80474</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Kolavian Tupolev Tu-154 -kone tuhoutui tulipalossa Venäjällä – Wikiuutiset
+4. tammikuuta 2010
+Surgut, Venäjä. Ainakin kolme ihmistä menehtyi uudenvuodenpäivänä venälaisen lentoyhtiö Kolavian matkustajakoneen tuhouduttua tulipalossa Surgutissa. Noin kello 13.12 paikallista aikaa alkanut tulipalo saatiin sammumaan vasta noin kello 13.45. Räjähdysmäisesti edennyt palo levisi nopeasti matkustamoon. Menehtyneiden lisäksi 43 ihmistä loukkaantui onnettomuudessa. Koneessa oli onnettomuushetkellä 116 matkustajaa ja kahdeksan miehistön jäsentä.
+Useimpien uutistoimistojen mukaan onnettomuudessa menehtyi kolme ihmistä. CNN:n mukaan onnettomuudessa olisi menehtynyt neljä ihmistä. Ristiriitaisen uhriluvun lisäksi tapahtumien kulku on epäselvää. Joidenkin tietolähteiden mukaan kone olisi ehtinyt jo ilmaan ennen onnettomuutta.
+Onnettomuuskone oli vanhanmallinen Tupolev Tu-154B-2 -tyyppinen. Venäjän liikenneturvallisuusvirasto kehotti onnettomuutta seuranneena päivänä venäläisiä lentoyhtiöitä jäädyttämään lennot Tupolev Tu-154B -koneilla, kunnes onnettomuustutkinta on valmistunut. Liikenneviraston mukaan vuoden 1975 jälkeen valmistettuja vanhoja B-mallin koneita on liikenteessä yhä 15 kappaletta. Uudemman M-mallin valmistus alkoi 1984. Kolavialla on sekä vanhempaa B-mallia, että uudempaa M-mallia laivastossaan.
+</text>
+		<toponyms>
+			<toponym>
+				<start>51</start>
+				<end>60</end>
+				<phrase>Venäjällä</phrase>
+				<place>
+					<footprint>100 60</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>94</start>
+				<end>100</end>
+				<phrase>Surgut</phrase>
+				<place>
+					<footprint>73.41667 61.25</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>102</start>
+				<end>108</end>
+				<phrase>Venäjä</phrase>
+				<place>
+					<footprint>100 60</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>232</start>
+				<end>242</end>
+				<phrase>Surgutissa</phrase>
+				<place>
+					<footprint>73.41667 61.25</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Eläinten joukkokuolemat ihmetyttävät ympäri maailmaa – Wikiuutiset
+5. tammikuuta 2011
+Jopa 5 000 punaolkaturpiaalia ja kottaraista putosi kuolleena taivaalta uudenvuodenaattona Arkansas’n osavaltiossa Yhdysvalloissa. Kolme päivää myöhemmin 500 turpiaalia ja kottaraista löytyi kuolleena tieltä naapuriosavaltio Louisianassa. Myöhään eilisiltana 50–100 kuollutta naakkaa löytyi kadulta Falköpingissä Ruotsissa.
+Arkansas’n koillisosassa tutkitaan 100 000 kalan kuolemaa. Chesapeakenlahdella Yhdysvaltain itärannikolla havaittiin arviolta kahden miljoonan kalan joukkokuolema. Brasilian kalastuskylien rannoille on viime torstain jälkeen ajautunut 100 tonnia kuolleita sardiineja, rummuttajia ja monneja. Satoja napsijoita ajautui Coromandelinniemen rantaan Uudessa-Seelannissa.
+Asiantuntijat eivät katso tapausten liittyvän toisiinsa. Arkansas’n lintukuolemissa on arveltu lintujen joutuneen paniikkiin kovan äänen, ehkä uudenvuoden ilotulitusten, takia ja lentäneen päin toisiaan. Louisianan joukkokuolema saattoi johtua ohi pyyhkineestä kylmästä rintamasta, taudista tai linnut päin voimalinjoja ajaneesta kovasta tuulesta, sanoi osavaltion eläinlääkäri Jim LaCour. Lintujen raatoja on lähetetty tutkittaviksi tautien, myrkyn tai muiden selitysten löytämiseksi. Ruotsin ornitologisen yhdistyksen Anders Wirdheim sanoi Falköpingin lintujen kuolleen todennäköisesti pelästyttyään yöllä ja sitten lennettyään toisiaan päin kuten Arkansas’ssa. Linnut testataan tautien varalta.
+Arkansas’n kalakuolemien syynä pidetään tautia. Marylandin ympäristöviranomaisten edustaja Dawn Stoltzfus sanoo Chesapeakenlahden kalakuolemien liittyneen todennäköisesti niin kutsuttuun kylmän veden stressiin; samanlaisia kalojen talvisia kuolemia sattui vuosina 1976 ja 1980. Uudessa-Seelannissa kalojen kerrotaan nälkiintyneen sääolojen vuoksi. Brasilian kalakuolemien syy on tuntematon, ehkä saasteilla oli tekemistä asian kanssa tai kaloja joutui vahingossa mereen kalastusaluksesta.
+Mystisten joukkokuolemien johdosta on levinnyt myös huhuja ja salaliittoteorioita. Teorioiden mukaan linnut tappoi biologisen tai muun joukkotuhoaseen kokeileminen. Eräs salaliittoteoria kytkee John P. Wheeler III:n äskettäisen murhan lintukuolemiin – Wheeler väitetään ”hiljennetyn” ennen kuin hän ehti paljastaa, että vahingossa vapautunut kemiallinen ase fosgeeni tappoi linnut.
+Jotkut vitsailevat, että ihmiset ovat pelanneet Angry Birds -peliä liiaksi asti.
+Arkansas’ssa Beeben pikkukaupungissa ihmiset olivat ihmeissään lintujen joukkokuolemasta. ”Jotkut olivat vähän paniikissa, ajattelivat että kyse oli maailmanlopusta”, sanoi kaupungin poliisilaitoksen edustaja AP:lle.
+</text>
+		<toponyms>
+			<toponym>
+				<start>177</start>
+				<end>187</end>
+				<phrase>Arkansas’n</phrase>
+				<place>
+					<footprint>-92.50044 34.75037</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>201</start>
+				<end>215</end>
+				<phrase>Yhdysvalloissa</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>311</start>
+				<end>323</end>
+				<phrase>Louisianassa</phrase>
+				<place>
+					<footprint>-92.0004 31.00047</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>385</start>
+				<end>398</end>
+				<phrase>Falköpingissä</phrase>
+				<place>
+					<footprint>13.55068 58.17347</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>399</start>
+				<end>408</end>
+				<phrase>Ruotsissa</phrase>
+				<place>
+					<footprint>15 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>410</start>
+				<end>420</end>
+				<phrase>Arkansas’n</phrase>
+				<place>
+					<footprint>-92.50044 34.75037</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>489</start>
+				<end>501</end>
+				<phrase>Yhdysvaltain</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>574</start>
+				<end>583</end>
+				<phrase>Brasilian</phrase>
+				<place>
+					<footprint>-55 -10</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>755</start>
+				<end>774</end>
+				<phrase>Uudessa-Seelannissa</phrase>
+				<place>
+					<footprint>174 -42</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>833</start>
+				<end>843</end>
+				<phrase>Arkansas’n</phrase>
+				<place>
+					<footprint>-92.50044 34.75037</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>980</start>
+				<end>990</end>
+				<phrase>Louisianan</phrase>
+				<place>
+					<footprint>-92.0004 31.00047</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1262</start>
+				<end>1269</end>
+				<phrase>Ruotsin</phrase>
+				<place>
+					<footprint>15 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1318</start>
+				<end>1329</end>
+				<phrase>Falköpingin</phrase>
+				<place>
+					<footprint>13.55068 58.17347</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1426</start>
+				<end>1438</end>
+				<phrase>Arkansas’ssa</phrase>
+				<place>
+					<footprint>-92.50044 34.75037</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1474</start>
+				<end>1484</end>
+				<phrase>Arkansas’n</phrase>
+				<place>
+					<footprint>-92.50044 34.75037</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1522</start>
+				<end>1532</end>
+				<phrase>Marylandin</phrase>
+				<place>
+					<footprint>-76.74997 39.00039</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1752</start>
+				<end>1771</end>
+				<phrase>Uudessa-Seelannissa</phrase>
+				<place>
+					<footprint>174 -42</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1822</start>
+				<end>1831</end>
+				<phrase>Brasilian</phrase>
+				<place>
+					<footprint>-55 -10</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2426</start>
+				<end>2438</end>
+				<phrase>Arkansas’ssa</phrase>
+				<place>
+					<footprint>-92.50044 34.75037</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2439</start>
+				<end>2445</end>
+				<phrase>Beeben</phrase>
+				<place>
+					<footprint>-91.87959 35.07064</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>DOC Point elokuvafestivaali 2011 – Wikiuutiset
+15. tammikuuta 2011
+4. helmikuuta 2011
+10. Docpoint elokuvafestivaali on 25.-30.1.2011 Helsingissä. Ylen teemalla on ennakkonäytöksiä 15.1.2011. Festivaaleilla on suomalaisiaelokuvia ja kansainvälisiä elokuvia.
+Kuudessa päivässä Docpoint -festivaaleilla oli yli 30 000 kävijää, mikä on festivaalien ennätys. Elokuvaesityksissä oli 24 000 katsojaa. Ohjelmassa oli klassikkoja ja uutuuksia Suomesta ja ulkomailta. Kansainvälisesti palkitut dokumenttielokuvat kiinnostivat eniten, kuten Exit Through the Gift Shop.
+Ohjelmistoon sisältyi mm. elokuvia Kongosta ennen ja tänään, Stefan Jarl –tuotantoa ja suomalainen dokumentti Miten marjoja poimitaan. 
+
+Ylen teema näytti festivaalielokuvia, kuten ohjaajat: Pia Andell, John Webster ja Pekka Lehto (The Real McCoy).
+</text>
+		<toponyms>
+			<toponym>
+				<start>134</start>
+				<end>145</end>
+				<phrase>Helsingissä</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>435</start>
+				<end>443</end>
+				<phrase>Suomesta</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>594</start>
+				<end>602</end>
+				<phrase>Kongosta</phrase>
+				<place>
+					<footprint>NaN</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Pohjoisella jäämerellä voimakas maanjäristys – Wikiuutiset
+29. tammikuuta 2011 Pohjoisella jäämerellä, lähellä Norjalle kuuluvaa asumatonta Jan Mayenin saarta tapahtui lauantaina kello 08.55:26 Suomen aikaa voimakas maanjäristys. Maanjäristys oli Yhdysvaltain geologisen tutkimuskeskuksen (USGS) mukaan voimakkuudeltaan 6,1 momenttimagnitudia. Järistys sattui muutamia kymmeniä kilometrejä saaresta itään 9,5 kilometrin syvyydessä.
+Jan Mayenin saarella on tutkimuskeskus ja Norjan armeijan tukikohta, joissa kaatuili huonekaluja järistyksen seurauksena. Kuitenkaan suuria vahinkoja ei syntynyt. Kukaan ei myöskään loukkaantunut. 
+Jan Mayenilla sijaitsee maailman pohjoisin tulivuori. Järistyskeskuksesta on matkaa Grönlannin itärannikon Ittoqqortoormiitiin 560 kilometriä ja Norjan Tromssaan 975 kilometriä.
+</text>
+		<toponyms>
+			<toponym>
+				<start>111</start>
+				<end>119</end>
+				<phrase>Norjalle</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>194</start>
+				<end>200</end>
+				<phrase>Suomen</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>140</start>
+				<end>151</end>
+				<phrase>Jan Mayenin</phrase>
+				<place>
+					<footprint>-8.5 70.98333</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>432</start>
+				<end>443</end>
+				<phrase>Jan Mayenin</phrase>
+				<place>
+					<footprint>-8.5 70.98333</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>474</start>
+				<end>480</end>
+				<phrase>Norjan</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>630</start>
+				<end>643</end>
+				<phrase>Jan Mayenilla</phrase>
+				<place>
+					<footprint>-8.5 70.98333</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>737</start>
+				<end>756</end>
+				<phrase>Ittoqqortoormiitiin</phrase>
+				<place>
+					<footprint>-21.96221 70.48456</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>714</start>
+				<end>724</end>
+				<phrase>Grönlannin</phrase>
+				<place>
+					<footprint>-40 72</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>775</start>
+				<end>781</end>
+				<phrase>Norjan</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>782</start>
+				<end>791</end>
+				<phrase>Tromssaan</phrase>
+				<place>
+					<footprint>18.95508 69.6489</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Lastensuojelun asiantuntija: rippisalaisuus saattaa estää lastensuojeluilmoituksen tekemisen – Wikiuutiset
+20. helmikuuta 2011
+Oikeustieteen tohtori Sami Mahkonen vaatii vaitiolovelvollisuutta koskevan erillismaininnan poistamista lastensuojelulaista tuoreessa Kotimaa-lehdessä. Rippisalaisuus saattaa hänen mukaansa estää lastensuojeluilmoituksen tekemisen sosiaaliviranomaisille jo tapahtuneesta lapsen hyväksikäytöstä. Myös poliisille tehtävä ilmoitus suunnitteilla olevasta törkeästä rikoksesta on hänen mukaansa mahdoton, jos rippisalaisuus estää epäillyn nimen paljastamisen. 
+Suomen evankelis-luterilaisen kirkon piispainkokous pitää kiinni ehdottomasta rippisalaisuudesta, jonka mukaan ripittäytyjän henkilöllisyys ei saa tulla ilmi edes välillisesti. Arkkipiispa Kari Mäkinen kommentoi, että ehdoton luottamuksellisuus ”avaa auttamismahdollisuuksia ja keinoja puuttua tilanteeseen”. Kirkko on työstänyt ohjeistusta valtiovallan kanssa. Kutsun yhteistyöhön on esittänyt peruspalveluministeri Paula Risikko (kok.). Sekä Risikko että oikeusministeri Tuija Brax (vihr.) vahvistavat, että asia on edennyt siten kuin joulukuussa yhteisessä neuvottelussa sovittiin.
+Piispainkokouksen 9. helmikuuta julkaisemissa ohjeissa on useita esimerkkejä toimintaohjeiksi tilanteissa, joissa pappi tai lehtori saavat ripissä tai sielunhoidossa tietää lapsen hyväksikäytöstä.
+»Ellei lapsen hyväksikäyttöä suunnitteleva itse suostu ilmoittautumaan viranomaisille, papin on kerrottava hyvissä ajoin ja varovasti asiasta viranomaisille tai sille, jota vaara uhkaa, kuitenkin niin, ettei asianomainen suoraan tai välillisesti tule siitä ilmi. Koska lapsi ei useinkaan tällaisissa tapauksissa pysty puolustautumaan, viranomaisille tehty ilmoitus jää käytännössä usein ainoaksi vaihtoehdoksi. Lain mukaan näissä
+tapauksissa voidaan ilmoittaa viranomaisille hankkeilla oleva rikos ja sen ilmeinen kohde, mutta ei papille
+uskoutuneen henkilöllisyyttä. Olennaista on, että pappi ryhtyy toimiin tulevien rikosten estämiseksi säilyttäen samalla kirkkolaissa säädetyn vaitiolovelvollisuuden.» (Piispainkokouksen ohjeistuksesta)
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Tähtifantasia-palkintoehdokkaat 2011 julkistettu – Wikiuutiset
+9. maaliskuuta 2011
+Helsingin science fiction -seura jakaa vuosittain Tähtifantasia-palkinnon parhaalle suomennetulle fantasiakirjalle. Vunna 2010 julkaistuista käännöskirjoista asiantuntijaraati on valinnut viisi teosta palkinnon ehdokkaiksi.
+Tähtifantasia-palkinnon asiantuntijaraatiin kuuluvat kriitikko Jukka Halme, kriitikko Aleksi Kuutio, kirjailija ja kustannustoimittaja Anne Leinonen sekä fantasiaharrastaja, Risingshadow.netin edustaja Osmo Määttä.
+Wikiuutisiin on lisätty uusia uutisia koskien aihetta Tähtifantasia-palkinto.
+</text>
+		<toponyms>
+			<toponym>
+				<start>83</start>
+				<end>92</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>EIT pyörsi krusifiksilinjauksensa – Wikiuutiset
+18. maaliskuuta 2011
+Euroopan ihmisoikeustuomioistuin antoi tänään päätöksensä Italian valtion valitukseen. Useampi valtio oli Italian johdolla valittanut EIT:n vuoden 2009 päätöksestä, jonka mukaan julkisten koulujen luokkahuoneiden seinille ripustetut krusifiksit loukkaavat uskonnonvapautta.
+EIT perui aiemman linjauksensa. Sen mukaan julkisten koulujen tiloissa olevissa krusifikseissa ei ole mitään väärää, koska niiden ei voida osoittaa vaikuttavan oppilaisiin millään tavalla.
+Suomalainen Soile Lautsi vei krusifiksijutun vuonna 2009 EIT:n käsiteltäväksi. Tapaus juontaa juurensa aikaan, jolloin Lautsin lapset kävivät koulua Italiassa eikä koulu suostunut ottamaan kristillisiä symboleja pois seiniltä. AP:n mukaan jupakka nostatti erimielisyyksiä katolis–ortodoksisen Etelä-Euroopan ja uskonnon ja valtion eroa korostavan Pohjois-Euroopan välille.
+Katso myös tähän aiheeseen liittyvät aiemmat uutiset.
+</text>
+		<toponyms>
+			<toponym>
+				<start>127</start>
+				<end>134</end>
+				<phrase>Italian</phrase>
+				<place>
+					<footprint>12.83333 42.83333</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>175</start>
+				<end>182</end>
+				<phrase>Italian</phrase>
+				<place>
+					<footprint>12.83333 42.83333</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>681</start>
+				<end>690</end>
+				<phrase>Italiassa</phrase>
+				<place>
+					<footprint>12.83333 42.83333</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Tähtivaeltaja-palkintoehdokkaat 2011 julkistettu – Wikiuutiset
+29. maaliskuuta 2011
+Helsingin science fiction -seura jakaa vuosittain Tähtivaeltaja-palkinnon edellisvuoden parhaalle Suomessa ilmestyneelle tieteiskirjalle. Vuoden 2010 kirjoista seuran raati on valinnut viisi teosta palkinnon lyhytlistalle.
+Palkintoraadin puheenjohtajan, Tähtivaeltaja-lehden päätoimittajan Toni Jerrmanin mukaan ”sekä suomalaiset että ulkomaiset kirjailijat ovat viime aikoina innostuneet maalailemaan synkkiä visioita ihmiskunnan lähitulevaisuudesta. Trendi kuvastaa selkeästi niitä pelkoja, joiden keskellä länsimaissa eletään juuri nyt. Yhteiskuntien eriarvoistuminen, kasvottomana riehuva markkinatalous ja populististen fundamentalistiliikkeiden nousu herättävät ihmisissä epävarmuutta tulevaisuudesta”.
+Tähtivaeltaja-palkinnon asiantuntijaraatiin kuuluvat toimittaja Hannu Blommila, päätoimittaja Toni Jerrman, kriitikko Elli Leppä ja kriitikko Vesa Sisättö. Voittaja julkistetaan alkukesästä.
+Wikiuutisiin on lisätty uusia uutisia koskien aihetta Tähtivaeltaja-palkinto.
+</text>
+		<toponyms>
+			<toponym>
+				<start>84</start>
+				<end>93</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>182</start>
+				<end>190</end>
+				<phrase>Suomessa</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Islantilaiset äänestivät jälleen Icesave-korvaukset nurin – Wikiuutiset
+10. huhtikuuta 2011
+Islannissa äänestettiin eilen Alltingin päätöksestä numero 13/2011, jonka nojalla maan finanssiministeri olisi voinut hyväksyä sopimuksen Isolle-Britannialle ja Alankomaille maksettavista korvauksista. Kansa torjui korvaukset likimain jakaumalla 60 % vastaan–40 % puolesta.
+Tapaus juontaa juurensa islantilaisen Landsbanki-pankin kaatumiseen talouskriisissä. Pankki oli tarjonnut Icesave-brändillä korkeakorkoisia talletustilejä briteille ja alankomaalaisille. Pankin kaaduttua Islannin talletussuoja ei kattanut ulkomaisten tallettajien tappioita, joten Britannia ja Alankomaat korvasivat tappiot tallettajille. Nyt ne vaativat rahoja Islannin valtiolta.
+Kansanäänestysjupakka oli kuin toisinto viimevuotisesta. Allting oli hyväksynyt korvaukset, mutta presidentti ei ollut allekirjoittanut päätöstä, joten siitä järjestettiin kansanäänestys.
+Islannin hallitus sanoi lausunnossaan, että se pyrkii huolehtimaan siitä, ettei äänestystuloksella olisi isoa vaikutusta talousohjelmaan. Talous- ja verotussuunnitelmat pitää hallituksen mukaan kuitenkin miettiä aivan uudelleen. Hallitus sanoi olevansa edelleen sitoutunut Kansainvälisen valuuttarahaston hyväksymään talousohjelmaan.
+Hallitus kertoo, että tuoreiden arvioiden mukaan Landsbankin konkurssipesästä voitaisiin maksaa jopa 90 % tallettajien rahoista. Presidentti Ólafur Ragnar Grímsson muotoili asian hieman toisin: hänen mukaansa ”ei ole oikein väittää, etteivät Yhdistynyt kuningaskunta ja Alankomaat saa yhtään maksuja” ja ”todennäköisesti  maksetaan 7–9 miljardin dollarin rahasummat”.
+Presidentin toiminta on jakanut mielipiteitä. Ólafur Ragnar Grímsson on ensimmäinen Islannin presidentti, joka on käyttänyt veto-oikeuttaan ja alistanut parlamentin päätöksen kansanäänestykseen, ja tämä oli jo kolmas kerta. Toisten mielestä voimakasta keskustelua herättävistä poliittisista päätöksistä tulisi jatkossakin järjestää kansanäänestyksiä; toiset katsovat, että presidentin roolin tulisi olla seremoniallisempi ja demokraattisesti valitun parlamentin tahtoa tulisi kunnioittaa.
+Alankomaiden ja Ison-Britannian edustajat olivat tyytymättömiä äänestystulokseen. Alakomaiden valtiovarainministeri sanoi, että tapaus menee tuomioistuimen käsittelyyn. EFTAn valvontaviranomainen väitti viime vuonna, että direktiivi 94/19 määrää Islannin maksamaan talletussuojan. Asia ei tähän asti ole edistynyt, koska päätettiin odottaa neuvottelujen ja kansanäänestyksen tulosta, joka olisi saattanut ratkaista asian.
+Wikiuutisiin on lisätty uusia uutisia koskien aihetta Icesave-jupakka.
+</text>
+		<toponyms>
+			<toponym>
+				<start>92</start>
+				<end>102</end>
+				<phrase>Islannissa</phrase>
+				<place>
+					<footprint>-18 65</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>230</start>
+				<end>249</end>
+				<phrase>Isolle-Britannialle</phrase>
+				<place>
+					<footprint>-2.69531 54.75844</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>253</start>
+				<end>265</end>
+				<phrase>Alankomaille</phrase>
+				<place>
+					<footprint>5.75 52.25</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>647</start>
+				<end>656</end>
+				<phrase>Britannia</phrase>
+				<place>
+					<footprint>-2.69531 54.75844</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>660</start>
+				<end>670</end>
+				<phrase>Alankomaat</phrase>
+				<place>
+					<footprint>5.75 52.25</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>728</start>
+				<end>736</end>
+				<phrase>Islannin</phrase>
+				<place>
+					<footprint>-18 65</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1512</start>
+				<end>1536</end>
+				<phrase>Yhdistynyt kuningaskunta</phrase>
+				<place>
+					<footprint>-2.69531 54.75844</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1540</start>
+				<end>1550</end>
+				<phrase>Alankomaat</phrase>
+				<place>
+					<footprint>5.75 52.25</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2127</start>
+				<end>2139</end>
+				<phrase>Alankomaiden</phrase>
+				<place>
+					<footprint>5.75 52.25</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2143</start>
+				<end>2158</end>
+				<phrase>Ison-Britannian</phrase>
+				<place>
+					<footprint>-2.69531 54.75844</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2373</start>
+				<end>2381</end>
+				<phrase>Islannin</phrase>
+				<place>
+					<footprint>-18 65</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Wall Streetin miljardööri Raj Rajaratnam syyllistyi sisäpiirikauppaan – Wikiuutiset
+11. toukokuuta 2011
+ Wall Streetin sijoittaja  Raj Rajaratnam tuomittiin syylliseksi laittomista sisäpiirikaupoista.  Srilankalainen miljardööri hyötyi syyttäjien mukaan 60 miljoonaa dollaria eli yli 40 miljoonaa euroa laittomista sisäpiirivihjeistä.
+ Wikipedian mukaan FBI pidätti hänet 16. lokakuuta 2009 epäiltynä sisäpiirikaukoista. Hallitus on tutkinut tapausta vuodesta 2008. Rajaratnam sai laittomia vihjeitä yrityksiltä kuten  Goldman Sachs. Syyttäjät nauhottivat salaa Rajaratnamin puheluita. Nauhoilla vihjeitä antoi mm. Goldman Sachsin johtaja   Rajat Gupta. Tuomiosta voi valittaa.
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Ilyas Kashmirin uskotaan kuolleen – Wikiuutiset
+7. kesäkuuta 2011
+Yhden al-Qaidan tärkeimmistä terroristijohtajista, Ilyas Kashmirin, uskotaan kuolleen Yhdysvaltain Etelä- Waziristaniin järjestämässä ohjusiskussa. Hän ja kahdeksan muuta al-Qaida-taistelijaa kuolivat kauko-ohjattavilla lentokoneilla toteutetussa iskussa. Täyttä varmuutta kuolemasta ei kuitenkaan ole.
+Kashmiria on pidetty yhtenä vaarallisimpina al-Qaida-komentajista. Häntä on syytetty useiden Pakistaniin kohdistuneiden iskujen tekijäksi ja Iso-Britanniaan, Ranskaan, Saksaan ja USA:han suunniteltujen, kuitenkin toteuttamattomien, iskujen pääsuunnittelijoiksi. Hänestä on myös enteilty Osama bin Ladenin seuraajaa, joten kuolema oli strategisesti tärkeä Yhdysvalloille ja suuri isku al-Qaidalle.
+</text>
+		<toponyms>
+			<toponym>
+				<start>152</start>
+				<end>164</end>
+				<phrase>Yhdysvaltain</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>462</start>
+				<end>473</end>
+				<phrase>Pakistaniin</phrase>
+				<place>
+					<footprint>70 30</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>510</start>
+				<end>525</end>
+				<phrase>Iso-Britanniaan</phrase>
+				<place>
+					<footprint>-2.69531 54.75844</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>527</start>
+				<end>535</end>
+				<phrase>Ranskaan</phrase>
+				<place>
+					<footprint>2 46</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>537</start>
+				<end>544</end>
+				<phrase>Saksaan</phrase>
+				<place>
+					<footprint>10.5 51.5</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>548</start>
+				<end>555</end>
+				<phrase>USA:han</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>724</start>
+				<end>738</end>
+				<phrase>Yhdysvalloille</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>165</start>
+				<end>185</end>
+				<phrase>Etelä- Waziristaniin</phrase>
+				<place>
+					<footprint>69.68207 32.30397</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Duke Nukem Foreveriä työstettiin 15 vuotta – Wikiuutiset
+10. kesäkuuta 2011
+Duke Nukem Forever -videopeli on tänään tullut myyntiin. Ennätyksellinen 15 vuoden kehitysaika teki pelistä legendaarisen, kirjoittaa Digitoday. DNF julkaistiin PC:lle, Xbox 360:lle ja PlayStation 3:lle.
+Peli on saanut osakseen vaihtelevia arvosteluja. IGN:n keskeneräisessä arvostelussa annetaan pelille risuja muun muassa tasohyppelystä, grafiikasta ja kentistä. Pelit sitä vastoin kirjoitti arvostelunsa ennakkoesittelyssä, että DNF on ”viihdyttävä elämysjuna”.
+DNF:n kehittämisessä oli mutkia matkassa. Ars Technican artikkeli valottaa taustaa:
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Tähtivaeltaja-palkinto Maarit Verroselle – Wikiuutiset
+4. heinäkuuta 2011
+Helsingin science fiction -seuran Tähtivaeltaja-palkinto parhaasta vuonna 2010 suomen kielellä julkaistusta tieteiskirjasta on annettu Tammen julkaisemalle Maarit Verrosen romaanille Kirkkaan selkeää. 
+Kyseessä on kolmas kerta, kun palkinnon on saanut kotimainen teos. Palkintoraati luonnehti teosta dystopiseksi näyksi siitä millaiseen maailmaan piittaamattomuus luonnon ja ihmisten hyvinvoinnista johtavat. Raadin mukaan kyseessä on ”merkittävä kirjallinen puheenvuoro nyky-yhteiskunnan huolestuttavista piirteistä”. 
+Teos sijoittuu lähitulevaisuuteen, jossa ihmisten jaottelu hyödyllisiin ja hyödyttömiin on kärjistynyt niin, että yhteiskunnan pohjasakkaa metsästetään kuin tuhoeläimiä. Romaanin päähenkilö pysyy pinnalla muun muassa teettämällä suuria vartalonmuokkauksia tositelevisio-ohjelmassa. Sisäänpäinkääntyneen kaupunkiyhteiskunnan ulkopuolella etenee luonnon tuho. Ilmastonmuutoksen ja eläinlajien hävittämisen seurauksena laajat alueet ovat autioituneet. Kansa on johdatettu näiden ongelmien parista juhlimiseen, jopa oman terveytensä kaupalla.
+”Kylmäävintä Verrosen omaäänisesti kerrotussa visiossa on huomio, kuinka kukaan ei reagoi vähän kerrallaan eteneviin muutoksiin. Kun suostumme mukisematta yhä uusiin vapauden rajoituksiin ja suljemme silmät kaikelta, mikä ei välittömästi kosketa meitä, olemme omalta osaltamme vauhdittamassa luisua peruuttamattomaan alamäkeen”, raati kuvailee.
+Raadin mukaan Verrosen kirja näyttää uskottavasti, mihin nykyajan ilmiöt kehittyessään johtavat. Se varoittaa vaipumasta itsetyytyväisyyteen näennäisen yltäkylläisyyden keskellä.
+Tähtivaeltaja-palkinnon asiantuntijaraatiin kuuluivat kirjallisuusarvostelija Hannu Blommila, päätoimittaja Toni Jerrman, kirjallisuusarvostelija Elli Leppä ja toimittaja Vesa Sisättö.
+Katso myös tähän aiheeseen liittyvät aiemmat uutiset.
+</text>
+		<toponyms>
+			<toponym>
+				<start>74</start>
+				<end>83</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Finncon 2011 tuo Turkuun Nalo Hopkinsonin ja Richard Morganin – Wikiuutiset
+16. heinäkuuta 2011
+Finncon-tieteiskirjallisuustapahtuma alkoi Turussa perjantaina. Tapahtuman teemoina ovat tänä vuonna virtuaalitodellisuus ja myytit. Ulkomaisina kunniavieraina nähdään kirjailijat Nalo Hopkinsonin ja Richard Morgan. Finnconin yhteydessä järjestetään japanilaisen populaarikulttuurin Animecon-tapahtuma. Tapahtumiin odotetaan viikonlopun aikana yli kymmentätuhatta kävijää. 
+Turun yliopiston tiloissa pidettävä Finncon-Animecon on Euroopan suurin pääsymaksuton ja vapaaehtoisvoimin toteutettu spekulatiivisen fiktion ja japanilaisen populaarikulttuurin harrastajien tapahtuma. 
+Animeconin päätapahtumia on animemusiikkikonsertti, jossa esiintyvät japanilainen kapellimestari Yukihiro Notsu ja kanadalainen animelauluartisti Himeka. Orkesterina toimii Suomen Nuoriso-Orkesteri.
+Finncon on järjestetty Suomessa vuodesta 1986 alkaen eri kaupungeissa. Animecon on järjestetty vuodesta 1999 lähtien. Molempiin tapahtumiin kuuluu esitelmiä, paneelikeskusteluja, työpajoja, tapaamisia ja kilpailuja. Finncon ja Animecon järjestetään nyt viimeistä kertaa yhdessä. Yleisömäärän kasvaessa tilojen ja voimavarojen rajallisuus on tullut vastaan. Vuoden 2009 Finncon-Animecon keräsi peräti 15 000 kävijää Helsingin Kaapelitehtaalle. Vuonna 2012 Finncon järjestetään Tampereella ja Animecon Kuopiossa.
+Helsingin science fiction -seuran myöntämä Tähtifantasia-kirjallisuuspalkinto parhaasta suomeksi ilmestyneestä käännetystä fantasiakirjasta jaetaan lauantaina. Myös Tähtivaeltaja-lehden tieteisnovellikilpailun voittaja julkistetaan. Turun SF-seura myöntää Atorox-palkinnon edellisen vuoden parhaalle kotimaiselle tieteis- tai fantasianovellille. 
+Kustannusyhtiö Teoksen fantasia- ja scifi-kirjoituskilpailu on kerännyt runsaasti käsikirjoituksia. Kilpailun voittajan julkistaa tuomariston puheenjohtaja, kirjailija Johanna Sinisalo. Voittaja allekirjoittaa kustannussopimuksen Teoksen edustajan Sija Hiidenheimon kanssa.
+</text>
+		<toponyms>
+			<toponym>
+				<start>139</start>
+				<end>146</end>
+				<phrase>Turussa</phrase>
+				<place>
+					<footprint>22.26869 60.45148</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>526</start>
+				<end>534</end>
+				<phrase>Euroopan</phrase>
+				<place>
+					<footprint>9.14062 48.69096</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1287</start>
+				<end>1296</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1348</start>
+				<end>1359</end>
+				<phrase>Tampereella</phrase>
+				<place>
+					<footprint>23.78712 61.49911</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1372</start>
+				<end>1381</end>
+				<phrase>Kuopiossa</phrase>
+				<place>
+					<footprint>27.67703 62.89238</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1383</start>
+				<end>1392</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1616</start>
+				<end>1621</end>
+				<phrase>Turun</phrase>
+				<place>
+					<footprint>22.26869 60.45148</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Tähtifantasia-palkinto puolalaiskirjailijalle – Wikiuutiset
+18. heinäkuuta 2011
+Vuoden 2011 Tähtifantasia-palkinnon parhaasta suomennetusta fantasiateoksesta sai puolalainen Andrzej Sapkowski teoksellaan Viimeinen toivomus (WSOY 2010). Teoksen on suomentanut Tapani Kärkkäinen. Palkinto myönnettiin Finncon-tapahtumassa Turussa lauantaina. 
+Palkintoperustelujen mukaan Viimeinen toivomus on omaperäinen, hauska ja mukaansatempaava lukupaketti, joka hyödyntää kiehtovasti itäeurooppalaista kansanperinnettä. Kirjailija käsittelee muun muassa sankaruuden ja velvollisuuden teemaa sortumatta helppoihin ratkaisuihin.
+Tähtifantasia-palkintoa jakaa Helsingin science fiction seura. Palkinto jaettiin viidettä kertaa. Tähtifantasia-palkinnon asiantuntijaraadissa olivat kriitikko Jukka Halme, kriitikko Aleksi Kuutio, kirjailija ja kustannustoimittaja Anne Leinonen ja fantasiaharrastaja, Risingshadow.netin edustaja Osmo Määttä. 
+Wikiuutisiin on lisätty uusia uutisia koskien aihetta Tähtifantasia-palkinto.
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Teoksen fantasia- ja scifi-kirjallisuuskilpailun voittajaksi Emmi Itäranta – Wikiuutiset
+18. heinäkuuta 2011
+Teos-kustantamon fantasia- ja scifi-kirjallisuuskilpailun voittaja julkistettiin Finncon 2011 -tapahtumassa Turussa lauantaina. Voittajakäsikirjoitus, Emmi Itärannan Veden muisti, kuvaa tulevaisuuden totalitaristista yhteiskuntaa. Viiden tuhannen euron suuruista palkintoa ja kustannussopimusta tavoitteli yli 350 käsikirjoitusta. Voittajaromaani ilmestyy Teokselta keväällä 2012.
+”Voittajateksti on sekä kieleltään että tulevaisuusvisionsa rakennuksen suhteen eheää, vaikuttavaa työtä. Kuten kaikki hyvä science fiction, myös tämä teos käy dialogia tämänhetkisen todellisuutemme kanssa: tekee näkyväksi maailman, jota kohti voimme tahtomattamme olla jo kulkemassa”, luonnehti kilpailuraadin puheenjohtaja, kirjailija Johanna Sinisalo. Tuomaristossa olivat Sinisalon lisäksi kustannustoimittajat Silja Hiidenheimo, Maarit Halmesarka ja Jussi Tiihonen sekä kirjailija Mikko Rimminen.
+Kunniamaininnan kilpailussa sai Jenny Kangasvuon Sudenveri, romaani ihmissusiyhteisöstä. Kirja ilmestyy Teokselta syksyllä 2012.
+</text>
+		<toponyms>
+			<toponym>
+				<start>217</start>
+				<end>224</end>
+				<phrase>Turussa</phrase>
+				<place>
+					<footprint>22.26869 60.45148</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Atorox-, Nova- ja Tähtivaeltaja-novellikilpailujen palkinnot jaettiin – Wikiuutiset
+18. heinäkuuta 2011
+Turun science fiction -seura antoi Atorox-novellipalkinnon Anne Leinoselle scifi- ja fantasiatapahtuma Finnconissa Turussa. Helsingin science fiction -seuran Tähtivaeltajan novellikirjoituskilpailun ja 400 euroa voitti puolestaan oululainen Heli Määttä. Nova 2011 -novellikilpailun voitti Jaana Lehtiö.
+Anne Leinonen sai Atorox-kisassa kaksoisvoiton: ensimmäinen palkinto annettiin Leinosen novellille Nahat ja toinen novellille Sanojen mahti. Kolmanneksi sijoittui Hanne Marteliuksen Stuttgart ennen talvea.
+Kymmenen kärki oli seuraava:
+Atoroxista kilpaili 23 novellia. Palkinnosta äänestivät suomalaiset science fictionin ja fantasian harrastajat.
+</text>
+		<toponyms>
+			<toponym>
+				<start>104</start>
+				<end>109</end>
+				<phrase>Turun</phrase>
+				<place>
+					<footprint>22.26869 60.45148</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>219</start>
+				<end>227</end>
+				<phrase>Turussa.</phrase>
+				<place>
+					<footprint>22.26869 60.45148</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>228</start>
+				<end>237</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Viranomaiset tiedottivat väärin Norjan iskujen uhriluvun – Wikiuutiset
+25. heinäkuuta 2011
+—Poliisijohtaja Øystein MælandOslo, Norja. Tiedotusvälineiden eilen raportoima Utøyan ammuskelun uhriluku oli virheellinen. Oslon poliisi kertoi tänään, että ammuskelussa kuoli 68 henkeä. Eilen kuolonuhrien määräksi ilmoitettiin virheellisesti 85, mikä johtui poliisijohtaja Øystein Mælandin mukaan siitä, että poliisi keskittyi Utøyalla henkiin jääneiden auttamiseen ja alueen turvaamiseen. Oslon pommi-iskun uhrimäärä taas on noussut seitsemästä kahdeksaan, joten yhteensä vahvistettuja kuolonuhreja on nyt 76.
+Muissa uutisissa tilanteen kehittymistä koskien Oslon käräjäoikeuden tuomari Kim Heger on tänään määrännyt Anders Behring Breivikin vangittavaksi neljäksi viikoksi täydelliseen eristykseen, jonka jälkeen vangitseminen jatkuu ainakin kuukauden. Vangitsemisen aikana poliisi tutkii Breivikin syyllisyyttä Norjan perjantaisiin iskuihin. Breivik on myöntänyt järjestäneensä Oslon pommi-iskun ja ammuskelleensa Utøyalla. Vangitsemisoikeudenkäynti käytiin poliisin pyynnöstä suljettujen ovien takana. Suljettuja ovia perusteltiin sillä, ettei Breivik saisi tilaisuutta viestittää mahdollisille rikoskumppaneilleen. Lisäksi on käyty keskustelua siitä, ettei Breivikille saisi antaa mahdollisuutta puolustella hirmutekojaan julkisuudessa.
+Oikeustalon luona oli vangitsemiskäsittelyn aikana vihainen väkijoukko, josta huudeltiin Breivikin puolustusasianajajalle Geir Lippestadille, että Breivik saisi palaa helvetissä. Lippestadilta myös kysyttiin, kuinka hän voi puolustaa Breivikiä. Tämä on kertonut ottaneensa tehtävän vastaan, koska pitää oikeutta reiluun oikeudenkäyntiin tärkeänä demokraattisena periaatteena.
+</text>
+		<toponyms>
+			<toponym>
+				<start>32</start>
+				<end>38</end>
+				<phrase>Norjan</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>121</start>
+				<end>125</end>
+				<phrase>Oslo</phrase>
+				<place>
+					<footprint>10.74609 59.91273</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>127</start>
+				<end>132</end>
+				<phrase>Norja</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>170</start>
+				<end>176</end>
+				<phrase>Utøyan</phrase>
+				<place>
+					<footprint>10.25083 60.02555</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>420</start>
+				<end>428</end>
+				<phrase>Utøyalla</phrase>
+				<place>
+					<footprint>10.25083 60.02555</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>483</start>
+				<end>488</end>
+				<phrase>Oslon</phrase>
+				<place>
+					<footprint>10.74609 59.91273</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>907</start>
+				<end>913</end>
+				<phrase>Norjan</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>974</start>
+				<end>979</end>
+				<phrase>Oslon</phrase>
+				<place>
+					<footprint>10.74609 59.91273</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1010</start>
+				<end>1018</end>
+				<phrase>Utøyalla</phrase>
+				<place>
+					<footprint>10.25083 60.02555</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Oikeus: Geenin voi patentoida – Wikiuutiset
+7. elokuuta 2011
+Yhdysvaltain liittovaltion vetoomustuomioistuin on kumonnut alemman tuomioistuimen päätöksen ja päättänyt, että Myriad Genetics -yhtiö sai patentoida kaksi rinta- ja munasarjasyöpään liittyvää geeniä (BRCA1- ja BRCA2-geenit). ACLU ja Public Patent Foundation olivat vieneet geenipatentit oikeuteen, ja kanteen takana oli yli 20 muutakin kantajaa: tutkijoita, patologeja, potilaita ja näiden järjestöjä.
+Järjestöjen mukaan ihmisen DNA:n patentoiminen olisi moraalitonta ja haittaisi geenitutkimusta. Biotekniikka-alan yritykset sen sijaan ovat tyytyväisiä tuomioistuimen päätökseen: niiden mukaan geenien patentoimisen kieltäminen olisi järkytys koko teollisuudenalalle.
+Myriad on kehittänyt BRACAnalysis-nimisen geenitestin, jolla selvitetään, onko henkilöllä kohonnut riski sairastua rinta- tai munasarjasyöpään. Vetoomustuomioistuimen mukaan yrityksen eristämät geenit voi patentoida, koska testi testaa geenien erityisiä kemiallisia muotoja, jotka ovat erilaisia kuin luonnossa esiintyvät. Tuomioistuin katsoi myös, että Myriadin testi eri hoitomuotojen kartoittamiseksi on patentoitavissa. Sen sijaan tuomioistuin piti voimassa alemman tuomioistuimen päätöksen, jonka mukaan Myriadin menetelmä DNA-sekvenssien analysoimiseksi ei ole patentoitavissa.
+Goldman Sachsin analyytikko Isaac Ro uskoo, että tapaus nähdään teollisuutta koskevan merkittävyytensä takia Yhdysvaltain korkeimmassa oikeudessa ennen vuotta 2012.
+Myriad Genetics oli saanut BRCA1- ja BRCA2-geenien patentit alun perin vuonna 1998. Alempi tuomioistuin oli kumonnut patentit viime vuonna.
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Prinsessa Victoria raskaana – Wikiuutiset
+17. elokuuta 2011Ruotsin kruununprinsessa Victoria on raskaana, tiedotti kuninkaallinen hovi tänään. Victoria ja hänen miehensä, prinssi Daniel, halusivat julkistaa vauvauutisen jo nyt, vaikka laskettu aika on vasta maaliskuussa.
+Victoria ja Daniel avioituivat viime vuoden kesäkuussa. Ruotsalaiset tiedotusvälineet ovat kertoneet pitkin kevättä ja kesää huhuista, joiden mukaan Victoria olisi raskaana.
+Hovi tiedottaa, että raskaus ei juuri vaikuta Victorian edustustehtäviin tänä syksynä.
+Victorian tuleva lapsi on tämän itsensä jälkeen toisena kruununperimysjärjestyksessä.
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>YK:n rakennus pommi-iskun kohteena Nigeriassa – Wikiuutiset
+26. elokuuta 2011
+Abuja, Nigeria. YK:n rakennuksella Nigerian pääkaupungissa on tänään räjähtänyt. Turvallisuuslähteen mukaan rakennuksen sisäänkäyntiä päin ajanut auto räjähti. Toisen version mukaan itsemurhapommittaja olisi ajanut kuorma-autolla poistumisportista. Silminnäkijät kertovat rakennuksen osin sortuneen räjähdyksen seurauksena.
+Sisäministeri Abba Morro sanoi tapahtumapaikalla, että tuhojen ja uhrien määrää olisi liian aikaista arvioida. Poliisin edustaja Mike Zuokumor kertoi jossain vaiheessa, että kuolleita olisi toistaiseksi 18 ja loukkaantuneita kahdeksan. Associated Press kertoo, että 40 ihmistä olisi saanut sairaalahoitoa. Loukkaantuneita on viety puolen kilometrin päässä tapahtumapaikasta sijaitsevaan Kansallissairaalaan.
+YK:n rakennuksen lähellä sijaitsee useiden ulkovaltojen lähetystöjä. Ulkoministeri, professori Viola Onwuliri sanoi, että isku oli suunnattu kansainvälistä yhteisöä vastaan.
+On esitetty epäilys, että sharia-lakia Nigeriaan haluava Boko Haram -järjestö olisi pommi-iskun takana. Sitä epäillään useista aiemmin tehdyistä iskuista.
+</text>
+		<toponyms>
+			<toponym>
+				<start>35</start>
+				<end>45</end>
+				<phrase>Nigeriassa</phrase>
+				<place>
+					<footprint>8 10</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>78</start>
+				<end>83</end>
+				<phrase>Abuja</phrase>
+				<place>
+					<footprint>7.49508 9.05785</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>85</start>
+				<end>92</end>
+				<phrase>Nigeria</phrase>
+				<place>
+					<footprint>8 10</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>113</start>
+				<end>121</end>
+				<phrase>Nigerian</phrase>
+				<place>
+					<footprint>8 10</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1023</start>
+				<end>1032</end>
+				<phrase>Nigeriaan</phrase>
+				<place>
+					<footprint>8 10</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Wikileaks julkaisi loputkin diplomaattiviestit – Wikiuutiset
+2. syyskuuta 2011
+Wikileaks-ilmiantosivusto on julkaissut kaikki hallussaan olevat viestit, joita yhdysvaltalaisdiplomaatit ympäri maailman ovat lähettäneet hallitukselleen. Julkaistut viestit ovat nyt sensuroimattomia, joten niistä selviävät arkaluontoiset tiedot kuten totalitaarisissa valtioissa salassa toimivien tietolähteiden nimet.
+Wikileaks ei pitänyt järkevänä pantata tiedostoja enää, koska ne kaikki ovat jo vuotaneet Internetiin muuta kautta. Wikileaks syyttää Guardiania sensuroimattomien viestien salausavaimen (salasanan) julkaisemisesta, joka olisi johtanut niiden leviämiseen.
+Wiredin toimittaja Kim Zetter arvelee, että syytä oli myös Wikileaksin perustajassa Julian Assangessa, jonka olisi pitänyt poistaa tiedotusvälineille tarkoitetut sensuroimattomat viestit sisältävä tiedosto Wikileaksin palvelimelta. Koska tiedosto jäi palvelimelle, se joutui entisen Wikileaksin edustajan Daniel Domscheit-Bergin kautta takaisin Wikileaksille ja BitTorrentin kautta levitykseen.
+Guardian julkaisi salausavaimen tänä vuonna kustantamassaan Wikileaksia käsittelevässä kirjassa. Lehti vetoaa siihen, että se oli luullut salausavaimen toimivan vain väliaikaisesti.
+Wikiuutisissa on aiheeseen Wikileaksin diplomaattiasiakirjat liittyviä artikkeleita.
+tyhjennä välimuisti
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Paavo Lipponen voitti esivaalin – Wikiuutiset
+13. syyskuuta 2011Kokenut poliitikko Paavo Lipponen (sd.) on voittanut Suomen Sosialidemokraattisen Puolueen esivaalin, jossa valittiin puolueen ehdokas ensi vuoden presidentinvaaleihin. Lipponen sai 67 prosenttia äänistä, vastaehdokkaat Tuula Haatainen ja Ilkka Kantola saivat 22 ja 11 prosentin äänisaaliit.
+Kyseessä oli neuvoa-antava jäsenäänestys. Puolueen presidenttiehdokkaan asettaa virallisesti puoluevaltuusto 8. lokakuuta.
+Edellisen kerran puolueen jäsenet ovat valinneet presidenttiehdokkaan vuonna 1999, jolloin valittiin nykyinen tasavallan presidentti Tarja Halonen. Tällä kertaa äänestysprosentti oli 58,05 % eli 23 276 jäsentä äänesti. Tänä vuonna esivaali järjestettiin ensi kertaa postiäänestyksen lisäksi Internetissä. Vaalitulos vuodettiin julkisuuteen ennen aikojaan Facebookin kautta.
+Paavo Lipponen on valtiotieteen maisteri. Hän on ollut Suomen pääministeri kahden hallituksen johdossa vuosina 1995–2003, minkä jälkeen hän oli eduskunnan puhemies neljä vuotta.
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Bussikuskin hakkaajat tuomittiin vankeusrangaistuksiin – Wikiuutiset
+4. lokakuuta 2011
+Helsingin käräjäoikeus on tuominnut bussikuskin hakanneet nuoret miehet 4,5 vuoden vankeusrangaistuksiin. Syyttäjä oli vaatinut nuorille viiden vuoden vankeusrangaistusta, kun taas puolustuksen mukaan kahden vuoden ehdollinen vankeusrangaistus olisi ollut riittävä. Nuoret määrättiin maksamaan uhrille 40 000 euroa korvauksia. Uhri kertoo kuitenkin lopulliset vaatimuksensa vasta myöhemmin, kun hänen saamiensa vammojen vakavuus lopullisesti selviää.
+Kurdistanista Suomeen lapsena tullut Sitav Ako Abdullah ja virolainen Marko Rodenau hakkasivat suomalaistaustaisen bussikuskin Helsingin Elielinaukiolla helmikuun alussa. Heidät tuomittiin törkeästä pahoinpitelystä.
+</text>
+		<toponyms>
+			<toponym>
+				<start>538</start>
+				<end>551</end>
+				<phrase>Kurdistanista</phrase>
+				<place>
+					<footprint>44 37</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>552</start>
+				<end>559</end>
+				<phrase>Suomeen</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>665</start>
+				<end>674</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Steve Jobs on kuollut – Wikiuutiset
+6. lokakuuta 2011
+Tietokoneita ja matkapuhelimia valmistavan Applen perustaja Steve Jobs kuoli eilen keskiviikkona. Hän oli kamppaillut haimasyövän kanssa vuodesta 2004 alkaen. Hän oli tämän vuoden tammikuussa jäänyt sairauslomalle ja elokuussa eronnut Applen toimitusjohtajan tehtävästä. Apple kertoi Jobsin kuolemasta torstain vastaisena yönä UTC-aikaa.
+Jobs syntyi 24. helmikuuta 1955 San Franciscossa kahdelle ylioppilaalle, jotka antoivat tämän adoptoitavaksi. Kalifornialainen työväenluokkainen Jobsin pariskunta adoptoi hänet. Aikuisena hän sai tietää, että hänen syntymänsä jälkeen hänen biologiset vanhempansa saivat tyttären: kirjailija Mona Simpson on hänen biologinen pikkusisarensa.
+Steve Jobs perusti Applen vuonna 1976 yhdessä Steve Wozniackin kanssa. Applen hallitus erotti hänet sisäisten kiistojen vuoksi vuonna 1985, mutta Jobs palasi vuonna 1997 yrityksen jouduttua taloudelliseen ahdinkoon. Jobs luotsasi yhtiön kuluttajaelektroniikkamarkkinoille ja käänsi tuottavuuden nousuun. Vuonna 2001 markkinoille tullut iPod oli yhtiölle tärkeä etappi. Mediamoguli Rupert Murdochin mukaan Steve Jobs ”oli yksinkertaisesti sukupolvensa merkittävin toimitusjohtaja”.
+Yhdysvaltain presidentti Barack Obama sanoi Jobsin olleen Amerikan suurimpia innovoijia. Walt Disney Companyn – jossa Jobsilla oli suuri omistusosuus Pixarin myynnin jäljiltä – toimitusjohtaja Robert Iger sanoi, että Jobs ”inspiroi miljoonia ihmisiä, vaikutti heidän elämäänsä ja määritti heidän kulttuuriaan”.
+Jobsilla oli vaimonsa Laurenen kanssa kolme lasta ja lisäksi tytär aiemmasta suhteesta.
+</text>
+		<toponyms>
+			<toponym>
+				<start>424</start>
+				<end>440</end>
+				<phrase>San Franciscossa</phrase>
+				<place>
+					<footprint>-122.41942 37.77493</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1271</start>
+				<end>1279</end>
+				<phrase>Amerikan</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Golda Apache jäi eläkkeelle – Wikiuutiset
+18. lokakuuta 2011
+Moninkertainen poniravien suomenmestari ja A-kategorian maailmanennätyksen tehnyt ori Golda Apache jäi eläkkeelle raviurheilusta Teivossa tänään. Golda Apache osallistui viimeiseen lähtöönsä, jonka jälkeen siltä riisuttiin kengät ja sitä onniteltiin voittajakehässä.
+</text>
+		<toponyms/>
+	</entry>
+	<entry>
+		<text>Torilla Tavataan! leiriytyi Helsinkiin 20.10.2011 – Wikiuutiset
+23. lokakuuta 2011
+Torilla Tavataan! - kansalaisliike leiriytyi Helsinkiin 20.10.2011. Liike on Espanjan M15- ja New Yorkin Occypy Wall Street -liikkeiden ideologioita yhdistävä ryhmä, jonka tavoite on nostaa esiin markkinatalouden ja finanssipolitiikan epäkohtia sekä vaikuttaa demokratian ja kansalaisvaikuttamisen mahdollisuuksiin Suomessa.
+Liikkeiden yhdistävä tavoite on rakentaa tasa-arvoista yhteiskuntaa yhteistyössä muissa maissa toimivien vastaavien liikkeiden kanssa. Espanjassa syntynyt M15-liike on ajanut radikaalia muutosta politiikkaan ja Occupy Wall Street -liikkeen kannattajien yhteinen sanoma on edistää demokraattista vaikusvaltaa tasaisesti kaikille yhteiskunnan jäsenille. Occupy Wall Street syntyi New Yorkissa syyskuun 11. päivä, ja 9. lokakuuta, samaan mielenosoitukseen oli ryhdytty 70 yhdysvaltain kaupungissa sekä noin 900 kaupungissa ympäri maailmaa. . Liikkeen iskulause on 99%, joka viittaa 99 prosenttiin maailman väestöstä, jonka vaikutusmahdollisuus demokratiassa saattaa jäädä rikkaimman 1 %:n jalkoihin.
+Antti Jauhiainen on yksi liikkeen aktiiveista Suomessa ja hän kertoo YLE Radio 1:n haastattelussa lauantaina 22. lokakuuta liikkeen yhdeksi esikuvaksi myös arabikevään. Antti Jauhiainen toimii puheenjohtajana myös Parecon Finland -yhdistyksessä, joka ajaa osallisuustalous-ideaa Suomessa.
+
+</text>
+		<toponyms>
+			<toponym>
+				<start>28</start>
+				<end>38</end>
+				<phrase>Helsinkiin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>128</start>
+				<end>138</end>
+				<phrase>Helsinkiin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>160</start>
+				<end>168</end>
+				<phrase>Espanjan</phrase>
+				<place>
+					<footprint>-4 40</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>177</start>
+				<end>187</end>
+				<phrase>New Yorkin</phrase>
+				<place>
+					<footprint>-74.00597 40.71427</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>398</start>
+				<end>406</end>
+				<phrase>Suomessa</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>543</start>
+				<end>553</end>
+				<phrase>Espanjassa</phrase>
+				<place>
+					<footprint>-4 40</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>786</start>
+				<end>798</end>
+				<phrase>New Yorkissa</phrase>
+				<place>
+					<footprint>-74.00597 40.71427</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>877</start>
+				<end>889</end>
+				<phrase>yhdysvaltain</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1151</start>
+				<end>1159</end>
+				<phrase>Suomessa</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1384</start>
+				<end>1392</end>
+				<phrase>Suomessa</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Teatteriarvio: Himputti Hiiri ja Urpojen kirous – Wikiuutiset
+11. marraskuuta 2011
+Projektori-ryhmä kertoo kotisivuillaan tavoitteekseen tehdä teatteria, joka  kommentoi nykypäivän Suomen yhteiskunnallisia ja sielullisia ilmiöitä. 
+Himputti Hiiren ja Urpojen kirouksen esityksiä on marraskuun 21. päivään saakka Helsingin Lauttasaaressa, osoitteessa Perttulantie 6. 
+Himputti Hiiri ja Urpojen kirous on Helsinkiläisen Projektori-ryhmän lastenteatterin anarkistinen eläin-faabeli, jossa sadunomaisen naamion alla kytee silmitön raivo. Esitys lietsoo vihaa ja syyllistää suoraviivaisesti kaiken pahuuden johtuvaksi järjestäytyneestä yhteiskunnasta, jota vastaan taistelee joukko houre-ääniä uskovat hiiri, päästäinen, lokki ja orava. Tarinassa heitellään salaliiton vihjeitä draamallisena koristeena ikäänkuin katsoja voisi jakaa yhteisen maailmankuvan.
+Tarinan valoisin puoli löytyy voimauttavasta toivosta, joka valaa uskoa pienen hiirulaisen mahdollisuuksiin vaikuttaa koko yhteiskuntaan syvänkin epätoivon keskellä. Esitys on viihdyttävän vauhdikas ja ohjaus on loistavaa, mutta vahvat tunnelautaukset käsitellään liian nopeasti. On myös hämmentävää katsoa esitystä, jossa oman käden oikeutta suojellaan silloinkin kun ystävä haluaa hirttää itsensä.
+Esitys olisi toimiva, jos se tarjoaisi anarkiaa! -huutoa syvemmän vastauksen, mutta tarina rakentaa synkän, värittömän ja epätoivoisen paniikkiratkaisun yhteiskunnallisiin ongelmiin. Käsikirjoituksessa on paljon kauniita sanoja ja ajatuksia, mutta on vaikea uskoa, että maailman ‘pelastamiseen’ väkivallan keinoin. Arabikevään hinta oli Muammar Gaddafin teurastusvideot, jotka mediassa annettiin paljolti anteeksi. Laitoin tämän esityksen surkeuden taiteen tekijöiden surkean yhteiskunnallisen aseman piikkiin. Nälkäpalkalla on vaikea rakentaa parempaa maailmaa.
+Rytmisesti taitava ohjaus saa näyttelijät loistamaan ja esitys lumoaa vaivattomasti. Päähenkilö Himputti Hiiren persoona on arvattavan yksioikoinen, mutta hahmon näyttelijä Jukka Peltola nostaa karismansa avulla katsojassa mielihyvän jo pelkällä hymyllään. Lotta Vaattovaaran, Sakari Tuomisen ja Martin Bahneen esittämät hahmot yllättävät iloisesti moniulotteisempina hahmoina ja heidän näyttelijätyöstään voi antaa myös ylistävän arvosanan.
+Kauniin ja toimivan puvustuksen on suunnitellut Noora Salmi ja lavastus on Markus Karekallaksen rakentama. Teatterin esityspaikaksi on valittu purku-uhan alle joutunut Lauttasaaren vanha toimistokiinteistö ja kaikesta talon rosoisuudesta huolimatta ryhmä on onnistunut rakentamaan turvallisen ja kotoisan katsomon, jossa tuntee itsensä tervetulleeksi.
+Projektori–ryhmä toteuttaa esityksiä pääasiassa Helsinkiin ja ryhmä kiertää myös esiintymässä. Himputti Hiiri -teatterin tuotannosta vastaa Sinikka Isoniemi. Sinikka kertoo kotivuillaan musiikista, joka on hänelle ominaisin elementti, mikä selittänee onnistuneen äänisuunnittelun yhdessä ohjaaja Juho Lukinmaan kanssa.
+Himputti Hiiri ja Urpojen Kirous on hyvin rakennettu, mutta nauhoitetuista vuorosanoista oli joskus vaikeaa saada selvää kaiun vuoksi. Nauhoitetuissa äänirooleissa ovat Juha Lagström, Hannes Lukinmaa, Mikko Pörhölä, Elina Reinikka, Fabian Silén, Raili Tiensuu ja Markus Karekallas.
+Kaikesta huolimatta odotan mielenkiinnolla Projektori-ryhmän tulevia teoksia
+-- Susiw 11. marraskuuta 2011 kello 10.22 (UTC) (kirjoittaja katsoi 9.11. esityksen)
+</text>
+		<toponyms>
+			<toponym>
+				<start>181</start>
+				<end>187</end>
+				<phrase>Suomen</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>312</start>
+				<end>321</end>
+				<phrase>Helsingin</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Yhtenäiselle Venäjälle tappio duumavaaleissa – Wikiuutiset
+6. joulukuuta 2011
+Venäjän valtapuolue Yhtenäinen Venäjä menetti kannatustaan valtionduuman vaaleissa. Puolueen äänisaalis oli 49,5 prosenttia, millä se saa 238 paikkaa eli enemmistön 450-paikkaisessa duumassa. Kommunistipuolue kasvatti paikkamääräänsä 57:stä 92:een, Oikeudenmukainen Venäjä 38:sta 64:ään ja liberaalidemokraatit 40:stä 56:een.
+Yhtenäisen Venäjän johtaja Vladimir Putin sanoi ITAR-TASSin mukaan puolueen saaman enemmistön mahdollistavan rauhallisen, vakauden takaavan parlamenttityöskentelyn. Putinin mukaan kansa piti puolueen johtavassa asemassa huolimatta siitä, että hallinnolliset ja taloudelliset vaikeudet ovat olleet puolueen niskassa.
+Yhtenäisen Venäjän johtohahmot sanoivat myös, ettei puolueen niukan enemmistönsä ansiosta välttämättä tarvitse muodostaa koalitiota minkään muun puolueen kanssa. ITAR-TASSin Lyudmila Alexandrova tosin uumoilee, että Yhtenäisen Venäjän monopoliasema on menetetty ja koska puolueella ei enää ole perustuslain säätämiseen tarvittavaa kaksinkertaista enemmistöä, sen on aika ajoin yhdistettävä voimansa muiden puolueiden kanssa.
+Etyjin mukaan vaalivilppiä esiintyi runsaasti: uurnia oli täytetty etukäteen ja vaalikampanjointi suosi Yhtenäistä Venäjää. Joidenkin oppositiopuolueiden osallistuminen vaaleihin oli estetty. Joillain äänestyspaikoilla vaalitarkkalijoiden ei annettu tarkkailla vapaasti.
+</text>
+		<toponyms>
+			<toponym>
+				<start>13</start>
+				<end>22</end>
+				<phrase>Venäjälle</phrase>
+				<place>
+					<footprint>100 60</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>78</start>
+				<end>85</end>
+				<phrase>Venäjän</phrase>
+				<place>
+					<footprint>100 60</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Toiseksi viimeinen Mannerheim-ristin ritari on kuollut – Wikiuutiset
+8. joulukuuta 2011
+Mannerheim-ristin ritari Heikki Nykänen kuoli keskiviikkoaamuna kotonaan Porissa. Hän oli kuollessaan 91-vuotias.
+Heikki Nykänen syntyi Helsingissä 19. syyskuuta 1920. Hänet nimitettiin Mannerheim-ristin ritariksi 1.8.1943, kun hän palveli jatkosodassa 3. divisioonassa kaukopartio-osaston johtajana. Tuolloin hän oli luutnantti, myöhemmin hän yleni majurin arvoon asti.
+Mannerheim-ristin ritareita on ollut kaikkiaan 191, mutta nyt on elossa enää yksi, Tuomas Gerdt. Tänä vuonna ei tasavallan presidentin itsenäisyyspäivän vastaanotolla nähty yhtään Mannerheim-ristin ritaria, sillä Tuomas Gerdt joutui jäämään pois puolisonsa tapaturman vuoksi. Heikki Nykänen ei ollut pystynyt osallistumaan enää muutamaan viime vuoteen.
+Aiempina vuosina itsenäisyyspäivän vastaanotolla tasavallan presidenttiä kätteli perinteisesti ensimmäisenä Mannerheim-ristin ritari. Vuonna 1994 presidentti Martti Ahtisaari käynnisti perinteen, että jokainen Mannerheim-ristin ritari kutsuttiin vastaanotolle.
+</text>
+		<toponyms>
+			<toponym>
+				<start>161</start>
+				<end>168</end>
+				<phrase>Porissa</phrase>
+				<place>
+					<footprint>21.78333 61.48333</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>224</start>
+				<end>235</end>
+				<phrase>Helsingissä</phrase>
+				<place>
+					<footprint>24.93545 60.16952</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Tunisian uudesta hallituksesta erosi ministereitä – Wikiuutiset
+18. tammikuuta 2011
+Tunis, Tunisia. Tunisialle eilen muodostetun yhtenäishallituksen kokoonpano ei pitänyt, sillä viisi oppositiopuolueiden ministeriä ilmoitti eroavansa myönnytyksenä mielenosoittajien vaatimuksille. Mielenosoittajia närkästyttää se, että vanhalla hallituspuolueella RCD:llä on uudessakin hallituksessa vahva asema.
+Edellisen hallituksen puolustus-, sisä-, ulko- ja talousministeri pitivät paikkansa uudessa salkkujaossa. Uuteen hallitukseen päässeiden kolmen oppositiopuolueen johtajille liikenivät aluekehitysministerin, korkeakouluministerin ja terveysministerin salkut.
+Pääministeri Muhammad al-Ghannuši puolusteli uuden hallituksen kokoonpanoa vedoten siihen, että hallitus tarvitsee kokeneita ministereitä, jotta pärjätään parin kuukauden päästä tuleviin vaaleihin. New York Times kirjoittaakin, ettei vallasta syöstyn presidentin Zine El Abidine Ben Alin 23-vuotisen yksipuoluediktatuurin jäljiltä ole saatavilla tarpeeksi kyvykkäitä ihmisiä muista puolueista. Al-Ghannušin mukaan kukaan uuden hallituksen ministereistä ei ollut osallistunut sortotoimiin.
+Tunisian sisäministeriö kertoo yli 70 ihmisen kuolleen levottomuuksissa viime päivinä.
+</text>
+		<toponyms>
+			<toponym>
+				<start>0</start>
+				<end>8</end>
+				<phrase>Tunisian</phrase>
+				<place>
+					<footprint>9 34</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>92</start>
+				<end>99</end>
+				<phrase>Tunisia</phrase>
+				<place>
+					<footprint>9 34</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>101</start>
+				<end>111</end>
+				<phrase>Tunisialle</phrase>
+				<place>
+					<footprint>9 34</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>85</start>
+				<end>90</end>
+				<phrase>Tunis</phrase>
+				<place>
+					<footprint>10.16579 36.81897</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Egyptiin luvassa rajuja mielenosoituksia – Wikiuutiset
+28. tammikuuta 2011
+Oppositiopuolueet ovat suunnitelleet massiivisia mielenosoituksia täksi päiväksi. Protestien on tarkoitus alkaa muslimien perjantairukousten jälkeen, mutta myös kristityt on kutsuttu mukaan.
+Viime päivien levottomuuksissa on vastustettu 30 vuotta vallassa ollutta Husni Mubarakia ja vaadittu muutosta. Egyptiin eilen saapuneen Mohamed ElBaradein toivotaan ryhtyvän opposition johtohahmoksi.
+Tekstiviestit ja Internet on Egyptissä estetty, jotta mielenosoittajat eivät pystyisi järjestäytymään. Hallitus on AP:n mukaan asettanut poliisin ja armeijan äärimmäiseen hälytystilaan.
+New York Times kirjoittaa qatarilaisen Al-Jazeera-uutiskanavan olevan tärkeässä roolissa arabimaailman viime viikkojen liikehdinnässä. Al-Jazeeran on sanottu mahdollistaneen Tunisian vallankumouksen ajantasaisella tiedonvälityksellään.
+Al-Jazeeran Jamal Elshayyal kirjoitti blogissaan eilen hämmästelleensä egyptiläisten poikkeuksellista aktiivisuutta ja vallankumouksellisuutta. Hän raportoi myös poliisin kovista otteista mielenosoittajien taltuttamiseksi. New York Times kirjoittaa Egyptin hallituksen tottuneen epäpoliittiseen ja epäaktiiviseen kansaan. Egyptin hallitus on julkisuudessa vähätellyt viime päivien levottomuuksien merkitystä, ja sisäministeri sanoi hallinnon olevan kansan enemmistön suosiossa.
+</text>
+		<toponyms>
+			<toponym>
+				<start>0</start>
+				<end>8</end>
+				<phrase>Egyptiin</phrase>
+				<place>
+					<footprint>30 27</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>378</start>
+				<end>386</end>
+				<phrase>Egyptiin</phrase>
+				<place>
+					<footprint>30 27</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>496</start>
+				<end>505</end>
+				<phrase>Egyptissä</phrase>
+				<place>
+					<footprint>30 27</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>827</start>
+				<end>835</end>
+				<phrase>Tunisian</phrase>
+				<place>
+					<footprint>9 34</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>THL: Rokote lisäsi lasten narkolepsiatapauksia – Wikiuutiset
+2. helmikuuta 2011
+Terveyden ja hyvinvoinnin laitos (THL) kertoi eilen, että vuosina 2009–2010 jaetut Pandemrix-sikainfluenssarokotteet ovat todennäköisesti jonkin muun tekijän kanssa yhteisvaikutuksessa aiheuttaneet narkolepsiatapausten lisääntymisen Suomessa.
+60 henkilöä ikäluokassa 4–19 vuotta sairastui narkolepsiaan vuosina 2009 ja 2010. Heistä 52 eli lähes 90 % sai sikainfluenssarokotuksen ja kaikista tuonikäisistä suomalaisista 70 %, minkä perusteella THL arvioi alustavasti, että rokotettujen narkolepsiariski oli 9-kertainen verrattuna rokottamattomiin. Muissa ikäryhmissä ei ollut poikkeuksellisen paljon narkolepsiaa eikä rokotteen ole todettu olleen siihen yhteydessä.
+Pandemrix-rokotetta käytettiin monissa maissa, mutta Suomen lisäksi vain Ruotsissa ja Islannissa tapahtui narkolepsiaan sairastumisen lisääntymistä. Toistaiseksi ei ole viitteitä siitä, että narkolepsia olisi liittynyt tiettyihin rokote-eriin.
+Suomessa tehdään nyt lisätutkimuksia, ja Kansallisen narkolepsiatyöryhmän loppuraportti valmistuu elokuun lopussa.
+THL muistuttaa, että sikainfluenssaa vastaan rokottaminen vähensi kuolleisuutta sikainfluenssaan sekä tehohoidon tarvetta.
+THL:n tiedotustilaisuudessa kerrottiin, että tähän mennessä tutkituilta 22:lta narkolepsiaan sairastuneelta on löydetty perinnöllinen riskitekijä. Kyseessä on HLA-molekyyliin liittyvä riskitekijä, joka on pohjoiseurooppalaisilla varsin yleinen: yli neljäsosalla pohjoiseurooppalaisista on se. THL:n asiantuntijoiden mukaan riskitekijä ei riittäne selittämään narkolepsiatapauksia, vaan jokin ympäristötekijä lienee vaikuttanut yhdessä rokotteen kanssa narkolepsian puhkeamiseen.
+Katso myös aiheeseen narkolepsiatapaukset liittyvät aiemmat uutiset.
+</text>
+		<toponyms>
+			<toponym>
+				<start>314</start>
+				<end>322</end>
+				<phrase>Suomessa</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>799</start>
+				<end>805</end>
+				<phrase>Suomen</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>819</start>
+				<end>828</end>
+				<phrase>Ruotsissa</phrase>
+				<place>
+					<footprint>15 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>832</start>
+				<end>842</end>
+				<phrase>Islannissa</phrase>
+				<place>
+					<footprint>-18 65</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>990</start>
+				<end>998</end>
+				<phrase>Suomessa</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Japanin pääministeri: Meneillään sodanjälkeisen ajan pahin kriisi – Wikiuutiset
+13. maaliskuuta 2011
+Japanin pääministerin Naoto Kanin mielestä maassa perjantaina sattunut maanjäristys ja sitä seuranneet tsunamit ja ydinvoimalaitosten onnettomuudet muodostavat sodan jälkeisten vuosien pahimman kriisin Japanissa.
+Tänään japanilaisasiantuntijat arvioivat perjantaisen järistyksen voimakkuudeksi 9,0 momenttimagnitudiasteikolla, mikä tarkoittaa kaksi kertaa voimakkaampaa kuin aiempi arvio 8,8. Järistys oli Japanin historian voimakkain.
+Fukushiman ykkösvoimalan ydinreaktoreissa numero 1 ja 3 on reaktorisydämen sulamisen vaara maanjäristyksen aiheuttamien toimintahäiriöiden vuoksi. Fukushiman kahden ydinvoimalan lähialueilta on evakuoitu eri lähteiden mukaan 130 000–yli 200 000 ihmistä. Sähköä joudutaan Japanissa säännöstelemään huomisesta lähtien.
+Pelkästään Miyagin prefektuurissa 10 000 ihmisen pelätään kuolleen. Vahvistettuja kuolemia on 1 500 (13.3. kello 18.10 UTC), useimmat heistä lienevät hukkuneet tsunamin takia. Maanjäristyksen keskusta lähimmän miljoonakaupungin Sendain Internet-sivujen mukaan 1,4 miljoonaa kotia on vailla sähköä ja puoli miljoonaa vailla vettä. Useat kaupungit ovat YLE Uutisten mukaan tuhoutuneet täysin hyökyaaltojen pyyhkäiseminä.
+</text>
+		<toponyms>
+			<toponym>
+				<start>304</start>
+				<end>313</end>
+				<phrase>Japanissa</phrase>
+				<place>
+					<footprint>139.75309 35.68536</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>508</start>
+				<end>515</end>
+				<phrase>Japanin</phrase>
+				<place>
+					<footprint>139.75309 35.68536</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>685</start>
+				<end>695</end>
+				<phrase>Fukushiman</phrase>
+				<place>
+					<footprint>140.22199 37.38158</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>809</start>
+				<end>818</end>
+				<phrase>Japanissa</phrase>
+				<place>
+					<footprint>139.75309 35.68536</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>866</start>
+				<end>873</end>
+				<phrase>Miyagin</phrase>
+				<place>
+					<footprint>140.92624 38.44938</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1083</start>
+				<end>1090</end>
+				<phrase>Sendain</phrase>
+				<place>
+					<footprint>140.86667 38.26667</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Urpilainen: Kolmen suurimman hallitus ei itsestäänselvyys – Wikiuutiset
+19. huhtikuuta 2011
+Puoluejohtaja Jutta Urpilainen (sd.) antoi Keskipohjanmaalle lausunnon, jonka mukaan SDP:n, kokoomuksen ja Perussuomalaisten muodostama hallitus ei ole itsestäänselvyys. Ainoastaan Perussuomalaisten on Urpilaisen mielestä väistämättä päästävä hallitukseen vaalituloksen perusteella. Tänään Urpilainen kuitenkin kertoi YLE Uutisille, että kolmen suurimman puolueen hallitus on hallitusneuvottelujen lähtökohta.
+Hallitusneuvotteluja johtava suurimman puolueen kokoomuksen puheenjohtaja Jyrki Katainen on sanonut, että kolmen suurimman puolueen muodostama hallitus olisi äänestystuloksen mukainen ja hyvin todennäköinen vaihtoehto. Kaikissa hallituksissa vuoden 1975 jälkeen ollut RKP ei Perussuomalaisten puheenjohtajan Timo Soinin ja kansanedustaja Eero Heinäluoman (sd.) mukaan välttämättä ole mukana tulevassa hallituksessa. Uusi Suomi arvelee, että kokoomus haluaa RKP:n hallitukseen, mutta kokoomuksen puheenjohtaja Katainen ei paljastanut Helsingin Sanomille näkemystään RKP:n mukanaolosta.
+Kokoomus on sunnuntaisten vaalien jälkeen suurin puolue 44 kansanedustajan vahvuisena. Toisena tulee SDP 42 edustajalla. Perussuomalaiset nousi eduskunnan pienimmästä puolueesta kolmanneksi suurimmaksi ja sai 39 kansanedustajaa.
+SDP haluaa, että Euroopan talouskriisin hoidossa vastuuta pannaan jotenkin sijoittajien harteille. Urpilaisen mukaan Perussuomalaiset ovat tässä asiassa lähempänä SDP:tä kuin kokoomus, ja luvassa on kovaa vääntöä asiasta hallitusneuvotteluissa.
+</text>
+		<toponyms>
+			<toponym>
+				<start>1334</start>
+				<end>1342</end>
+				<phrase>Euroopan</phrase>
+				<place>
+					<footprint>5.75 52.25</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Tällainen on Suomen uusi hallitus – Wikiuutiset
+18. kesäkuuta 2011
+Pitkien ja vaikeiden hallitusneuvottelujen päätteeksi ministerinsalkut on jaettu puolueiden kesken. Uuden hallituksen muodostavat kokoomus, SDP, vihreät, RKP, Vasemmistoliitto ja kristillisdemokraatit. Ministerijako on seuraava:
+Ministerien määrää on supistettu yhdellä 19:ään. Viestintä- ja asuntoministerien tehtävät on yhdistetty.
+Kokoomuksen, SDP:n ja kristillisdemokraattien ministerinimitykset selvisivät tänään. Muidenkaan puolueiden tiedonantoja ei tarvinne kauan odotella.
+RKP:n puheenjohtaja Stefan Wallin kiitteli puoluekokouksessa Espoossa, että puolue voi tulevina vuosina vaikuttaa valtakunnan politiikan ytimessä saatuaan johdettavakseen kaksi kokonaista ministeriötä ensimmäistä kertaa 20 vuoteen. Hufvudstadsbladet arvaa, että Wallin ottaisi puolustusministerin paikan ja oikeusministeriksi pääsisi joko Anna-Maja Henriksson tai vanhan hallituksen maahanmuutto- ja Eurooppa-ministeri Astrid Thors.
+Vihreiden uusi puheenjohtaja Ville Niinistö tulee ottamaan toisen puolueensa ministerinsalkuista. Hufvudstadsbladet arvelee hänen ryhtyvän ympäristöministeriksi, ja ulkoministeriön kehitysyhteistyöministeriksi lehti veikkaa Heidi Hautalaa tai Anni Sinnemäkeä.
+18. kesäkuuta 2011 kello 15.03 (UTC) Lisätty SDP:n ministerien nimet.
+</text>
+		<toponyms>
+			<toponym>
+				<start>13</start>
+				<end>19</end>
+				<phrase>Suomen</phrase>
+				<place>
+					<footprint>26 64</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>611</start>
+				<end>619</end>
+				<phrase>Espoossa</phrase>
+				<place>
+					<footprint>24.66667 60.25</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Ainakin 93 kuollut Norjan tragediassa – Wikiuutiset
+24. heinäkuuta 2011
+Norjassa perjantaina tehdyn pommi-iskun ja ampumisten kuolonuhreja on vahvistettu olevan 93. Lisäksi tiettävästi viisi henkeä on kadoksissa, eikä poliisi usko heidän löytyvän enää elossa. Kuolonuhreista seitsemän kuoli räjähdyksissä Oslossa Norjan hallituksen rakennusten luona ja 85 ammuttiin kuoliaaksi työväenpuolueen nuorisojärjestön leirillä Utøyan saarella. Yksi uhreista haavoittui Utøyalla ja kuoli tänään Oslon keskussairaalassa.
+67 ihmistä haavoittui Utøyan ammuskelun yhteydessä ja 30 pommi-iskussa. 31 iskuissa vakavasti loukkaantunutta on sairaalahoidossa.
+Poliisin pidättämä norjalainen mies Anders Behring Breivik on tunnustanut sekä pommi-iskun että ammuskelun, mutta kiistää olevansa syyllinen mihinkään rikokseen. Breivikin asianajaja sanoi tämän motiiviksi halun synnyttää vallankumous norjalaisessa yhteiskunnassa. Internet-kirjoitustensa perusteella Breivik piti muslimien muuttoa Euroopan maihin suurena yhteiskunnallisena uhkana.
+Breivik on poliisin mukaan kertonut toimineensa yksin, vaikka jotkut Utøyan saarella olleet ovat kertoneet että asemiehiä olisi ollut kaksi. Poliisi pidätti ja kuulusteli tänään useita ihmisiä, mutta heidät päästettiin vapaaksi, koska heillä ei ollut mitään yhteyttä iskuihin.
+Pääministeri Jens Stoltenberg puhui tänään kuolonuhrien muistolle järjestetyssä jumalanpalveluksessa, johon osallistuivat myös kuningas Harald ja kuningatar Sonja. Stoltenberg sanoi, että Norjaa on kohdannut kansallinen tragedia.
+25. heinäkuuta 2011
+Viranomaiset ovat oikaisseet tiedon kuolonuhrien määrästä, katso uutinen Viranomaiset tiedottivat väärin Norjan iskujen uhriluvun.
+</text>
+		<toponyms>
+			<toponym>
+				<start>19</start>
+				<end>25</end>
+				<phrase>Norjan</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>73</start>
+				<end>81</end>
+				<phrase>Norjassa</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>306</start>
+				<end>313</end>
+				<phrase>Oslossa</phrase>
+				<place>
+					<footprint>10.74609 59.91273</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>314</start>
+				<end>320</end>
+				<phrase>Norjan</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>420</start>
+				<end>426</end>
+				<phrase>Utøyan</phrase>
+				<place>
+					<footprint>10.25083 60.02555</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>462</start>
+				<end>470</end>
+				<phrase>Utøyalla</phrase>
+				<place>
+					<footprint>10.25083 60.02555</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>534</start>
+				<end>540</end>
+				<phrase>Utøyan</phrase>
+				<place>
+					<footprint>10.25083 60.02555</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>975</start>
+				<end>983</end>
+				<phrase>Euroopan</phrase>
+				<place>
+					<footprint>9.14062 48.69096</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1095</start>
+				<end>1101</end>
+				<phrase>Utøyan</phrase>
+				<place>
+					<footprint>10.25083 60.02555</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1491</start>
+				<end>1497</end>
+				<phrase>Norjaa</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1658</start>
+				<end>1664</end>
+				<phrase>Norjan</phrase>
+				<place>
+					<footprint>10 62</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Velkakaton nostosta käydään uusia neuvotteluja – Wikiuutiset
+31. heinäkuuta 2011
+Washington, D.C. Yhdysvaltain valtiovarainministeriö arvelee, että liittovaltion käytössä oleva raha loppuu keskiviikkoon 3. elokuuta mennessä, jollei liittovaltio voi ottaa enempää velkaa. Uhkana on, ettei liittovaltio voisi maksaa työntekijöidensä palkkoja ja kansalaisten sosiaaliturvaa. Yhdysvaltain kongressilla on valta antaa lupa lisävelan ottoon, mutta senaatin demokraattienemmistöllä ja edustajainhuoneen republikaanienemmistöllä on vahvasti poikkeavat mielipiteet talouspolitiikan hoidosta. Jo keväällä, kun velkakatto nostettiin 14,29 biljoonaan dollariin, republikaanit ilmaisivat vaativansa kovia leikkauksia liittovaltion menoihin seuraavan kerran kun velkakattoa pitäisi nostaa.
+Perjantaina demokraattienemmistöinen senaatti hylkäsi republikaanien esityksen velkakaton nostamiseksi, ja eilen lauantaina puolestaan republikaanivetoinen edustajainhuone hylkäsi demokraattien esityksen.
+Neuvottelut presidentti Barack Obaman ja kongressin republikaanien huippupoliitikkojen välillä edistyivät kuitenkin lauantai-iltana paikallista aikaa. Senaattori Harry Reid (dem.) sanoi kutsuvansa senaatin koolle tänään keskipäivällä äänestystä varten.
+Senaattori Mitch McConnell ja varapresidentti Joe Biden ovat keskeisiä hahmoja neuvotteluissa, joiden tavoitteena on saada kasaan molempien puolueiden hyväksymä paketti velkakaton nostosta, menoleikkauksista ja uuden menoleikkauksia suunnittelevan valiokunnan perustamisesta. New York Timesin lähteen mukaan heidän ehdotuksensa nostaisi velkakattoa noin yhdellä biljoonalla.
+Bloomberg Businessweek kirjoittaa, että arviot rahoitusvajeesta antavat huonomman kuvan Yhdysvaltain talouden tilasta kuin velkaluvut. Kongressin budjettitoimisto on laskenut, että liittovaltion olisi leikattava menojaan tai lisättävä tulojaan 8,3 prosenttia BKT:sta tulevien 75 vuoden ajan, jotta valtionvelan suhde BKT:hen pysyisi edes nykyisellä tasollaan. Toisaalta väestön ikääntyminen lisää painetta sosiaali- ja terveysmenojen kasvulle.
+</text>
+		<toponyms>
+			<toponym>
+				<start>82</start>
+				<end>97</end>
+				<phrase>Washington, D.C</phrase>
+				<place>
+					<footprint>-77.00025 38.91706</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1698</start>
+				<end>1710</end>
+				<phrase>Yhdysvaltain</phrase>
+				<place>
+					<footprint>-98.5 39.76</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Palestiinalaiset hakivat YK-jäsenyyttä – Wikiuutiset
+23. syyskuuta 2011
+Palestiinalaishallinnon presidentti Mahmud Abbas esitteli perjantaina Yhdistyneiden kansakuntien yleiskokoukselle palestiinalaisvaltion jäsenhakemuksen. Abbas sai puheensa jälkeen suosionosoituksia.
+Abbas haluaa palestiinalaisvaltiolle ennen vuotta 1967 olleet rajat. Puheessaan hän myös toivoi palestiinalaisvaltion tunnustamista niiltä mailta, jotka eivät vielä ole tunnustaneet valtiota.
+Abbasin mukaan palestiinalaiset olivat lähteneet vilpittömästi Israelin kanssa rauhanneuvotteluihin, joiden epäonnistumisen tärkein syy oli juutalaissiirtokuntien perustaminen. Israelin pääministeri Benjamin Netanjahu puolestaan syytti palestiinalaisia neuvotteluista kieltäytymisestä. Hänen mukaansa palestiinalaisvaltio voi saada itsenäisyyden vasta, kun sen ja Israelin välille on neuvoteltu rauha.
+Yhdysvallat on ilmoittanut käyttävänsä turvallisuusneuvostossa veto-oikeutta jäsenhakemuksen estämiseksi.
+Abbasin puheesta iloittiin perjantaina Länsirannalla, mutta välikohtauksilta ei täysin vältytty.
+Tällä hetkellä palestiinalaisilla on YK:ssa erityisasema, niin että palestiinalaishallinnolla on diplomaattisia toimintamahdollisuuksia, vaikka sitä ei tunnustetakaan valtioksi. Jos sen jäsenhakemus hyväksyttäisiin, se olisi YK:n 194. jäsenvaltio.
+</text>
+		<toponyms>
+			<toponym>
+				<start>527</start>
+				<end>535</end>
+				<phrase>Israelin</phrase>
+				<place>
+					<footprint>34.75 31.5</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>641</start>
+				<end>649</end>
+				<phrase>Israelin</phrase>
+				<place>
+					<footprint>34.75 31.5</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>866</start>
+				<end>877</end>
+				<phrase>Yhdysvallat</phrase>
+				<place>
+					<footprint>-98.5  39.76</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1011</start>
+				<end>1024</end>
+				<phrase>Länsirannalla</phrase>
+				<place>
+					<footprint>35.25 31.66667</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>828</start>
+				<end>836</end>
+				<phrase>Israelin</phrase>
+				<place>
+					<footprint>34.75 31.5</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Muammar Gaddafi on kuollut – Wikiuutiset
+20. lokakuuta 2011
+Libyan entinen diktaattori Muammar Gaddafi on kuollut, kertoo maan väliaikaishallinto. Gaddafin kerrotaan haavoittuneen väliaikaishallinnolle uskollisten joukkojen tunkeutuessa tämän piilopaikkaan Sirten lähistöllä ja kuolleen matkalla sairaalaan. Väliaikaishallinnon joukot valtasivat Gaddafin synnyinkaupungin Sirten tänään lähes kahden kuukauden piirityksen jälkeen.
+”Synkkä tyrannian varjo on siirretty syrjään”, kommentoi Yhdysvaltain presidentti Barack Obama.
+NATOn johto on suositellut Libyaan kohdistettujen ilmaiskujen lopettamista, ja virallinen päätös asiasta tehtäneen huomenna.
+Muammar Gaddafi oli Libyan johdossa vuoden 1969 sotilasvallankaappauksesta asti, jolloin hän oli 27-vuotias. Vuoden 1988 Lockerbien pommi-iskun jälkeen länsimaat katsoivat Gaddafin hallitsemaa Libyaa kieroon, kunnes Gaddafin hallinto vuonna 2003 otti täyden vastuun ja maksoi korvauksia iskun uhrien omaisille. Samana vuonna Libya korjasi suhteensa länsimaihin, kun Gaddafi luopui maan joukkotuhoaseista. Gaddafi kannatti Afrikan yhdysvaltojen perustamista; liittovaltiota maanosaan ei syntynyt, mutta Gaddafi toimi 2009–2010 puhemiehenä Afrikan unionissa, jonka perustamista liittovaltiovisiot innoittivat.
+Viime helmikuussa Libyassa nousi Gaddafin vastainen mieliala samalla kun kuohuntaa oli muuallakin Arabimaailmassa. Gaddafi määräsi sotilaallista voimaa käytettäväksi mielenosoittajia vastaan, minkä seurauksena Kansainvälinen rikostuomioistuin määräsi hänet kesäkuussa pidätettäväksi rikoksista ihmisyyttä vastaan. Viimeiseksi jääneessä televisiopuheessaan Gaddafi syytti länsimaita ja al-Qaidaa juonittelusta Libyan tuhoamiseksi.
+</text>
+		<toponyms>
+			<toponym>
+				<start>61</start>
+				<end>67</end>
+				<phrase>Libyan</phrase>
+				<place>
+					<footprint>17 28</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>258</start>
+				<end>264</end>
+				<phrase>Sirten</phrase>
+				<place>
+					<footprint>16.58866 31.20892</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>373</start>
+				<end>379</end>
+				<phrase>Sirten</phrase>
+				<place>
+					<footprint>16.58866 31.20892</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>554</start>
+				<end>561</end>
+				<phrase>Libyaan</phrase>
+				<place>
+					<footprint>17 28</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>672</start>
+				<end>678</end>
+				<phrase>Libyan</phrase>
+				<place>
+					<footprint>17 28</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>845</start>
+				<end>851</end>
+				<phrase>Libyaa</phrase>
+				<place>
+					<footprint>17 28</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>977</start>
+				<end>982</end>
+				<phrase>Libya</phrase>
+				<place>
+					<footprint>17 28</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1278</start>
+				<end>1286</end>
+				<phrase>Libyassa</phrase>
+				<place>
+					<footprint>17 28</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1669</start>
+				<end>1675</end>
+				<phrase>Libyan</phrase>
+				<place>
+					<footprint>17 28</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+	<entry>
+		<text>Kim Jong-il on kuollut – Wikiuutiset
+19. joulukuuta 2011
+Pohjois-Korean johtaja Kim Jong-il on kuollut, kertoo maan virallinen uutistoimisto KCNA. Uutistoimiston tänään kello 12 paikallista aikaa julkistama kuolinuutinen kertoo Kim Jong-ilin kuolleen lauantaina 17. joulukuuta kello 8.30. Hän kuoli sydänkohtaukseen junamatkalla.
+Kim Jong-ilin poika Kim Jong-un on nousemassa isänsä seuraajaksi Pohjois-Korean johtajana. Valtiollisella televisiokanavalla kerrotussa kuolinuutisessa Kim Jong-unia nimitettiin ”suureksi johtajaksi ja seuraajaksi”. Hänen roolinsa isänsä seuraajana oli paljastettu jo syyskuussa 2010.
+Kim Jong-il syntyi Siperiassa vuonna 1941 neuvostoliittolaisten asiakirjojen mukaan, Baekdu-vuorella vuonna 1942 virallisten tietojen mukaan, joten hän oli kuollessaan 69- tai 70-vuotias. Hän opiskeli Pjongjangissa Kim Il-sung -yliopiston politiikan ja taloustieteen laitoksella vuosina 1960–1964. Vuonna 1964 hän aloitti työt Korean työväenpuolueen keskuskomiteassa. Kim Jong-il johti Pohjois-Koreaa vuodesta 1994 lähtien, jolloin hänen ”suureksi johtajaksi” ja ”ikuiseksi presidentiksi” kutsuttu isänsä Kim Il-sung kuoli.
+Itsevaltaista Kim Jong-iliä kutsutaan virallisesti ”rakkaaksi johtajaksi”. Hän jatkoi isänsä viitoittamalla tiellä ”sotavoimat ensin” -politiikkaa ja loi maailman viidenneksi suurimman armeijan samalla kun resurssien niukkuus on tarkoittanut maassa pitkäaikaista nälänhätää. Kiinan kautta maastaan paenneet pohjoiskorealaiset ovat kertoneet eristäytyneessä maassa tapahtuvista ihmisoikeusrikkomuksista ja poliittisesta vainosta, jotka Pohjois-Korean viralliset tahot kieltävät.
+Kim Jong-ilin terveydentilasta liikkui huhuja sen jälkeen, kun hän vuonna 2008 sai tiedustelutietojen mukaan aivohalvauksen. Hän vaikutti kuitenkin virkeältä kuvissa, joita oli otettu hänen viimeaikaisilla matkoillaan Kiinassa ja Venäjällä.
+Virallisen kertomuksen mukaan Kim Jong-il syntyi vuonna 1942 Baekdu-vuorella ja taivaat kunnioittivat hänen legendaarista syntymäänsä kahdella sateenkaarella ja taivaalle syttyneellä uudella tähdellä. Hänen ympärilleen rakennettu henkilökultti näkyy mm. siinä, että Pohjois-Korean jokaisessa rakennuksessa roikkuu hänen ja hänen isänsä Kim Il-sungin kuva. Kim Jong-il on saanut ”Korean demokraattisen kansantasavallan sankarin” arvonimen kahdesti, vuosina 1975 ja 1982. Hänelle on myönnetty kolmesti Kim Il-sungin kunniamerkki, hän on ollut Korean demokraattisen kansantasavallan marsalkka vuodesta 1992 ja hän on vastaanottanut lukuisia muitakin kunnianosoituksia.
+Kim Jong-ilin hautajaispäiväksi on ilmoitettu 28. joulukuuta. Hautajaisiin ei kutsuta ulkovaltojen edustajia. Pohjois-Koreaan on julistettu maansuru 29. joulukuuta asti.
+Etelä-Korean presidentti Lee Myung-bak korosti vakauden ja rauhan ylläpitämisen tärkeyttä Kim Jong-ilin kuoltua. Etelä-Korean armeija on valmiustilassa, ja lisäksi pohjoisen rajanaapurin tarkkailua on tehostettu.
+Etelä-Korean viranomaisia on arvosteltu julkisuudessa, koska he eivät ilmeisesti saaneet tiedustelutietoa Kimin kuolemasta. He eivät osanneet odottaa, että Pohjois-Korean etukäteen ilmoittama tärkeä tiedotus keskipäivällä koskisi johtajan kuolemaa.
+</text>
+		<toponyms>
+			<toponym>
+				<start>58</start>
+				<end>72</end>
+				<phrase>Pohjois-Korean</phrase>
+				<place>
+					<footprint>127 40</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>396</start>
+				<end>410</end>
+				<phrase>Pohjois-Korean</phrase>
+				<place>
+					<footprint>127 40</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>635</start>
+				<end>645</end>
+				<phrase>Siperiassa</phrase>
+				<place>
+					<footprint>NaN</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1002</start>
+				<end>1016</end>
+				<phrase>Pohjois-Koreaa</phrase>
+				<place>
+					<footprint>127 40</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1836</start>
+				<end>1844</end>
+				<phrase>Kiinassa</phrase>
+				<place>
+					<footprint>105 35</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>1848</start>
+				<end>1857</end>
+				<phrase>Venäjällä</phrase>
+				<place>
+					<footprint>100 60</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2125</start>
+				<end>2139</end>
+				<phrase>Pohjois-Korean</phrase>
+				<place>
+					<footprint>127 40</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2908</start>
+				<end>2920</end>
+				<phrase>Etelä-Korean</phrase>
+				<place>
+					<footprint>127.75 36.5</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>2808</start>
+				<end>2820</end>
+				<phrase>Etelä-Korean</phrase>
+				<place>
+					<footprint>127.75 36.5</footprint>
+				</place>
+			</toponym>
+			<toponym>
+				<start>3064</start>
+				<end>3078</end>
+				<phrase>Pohjois-Korean</phrase>
+				<place>
+					<footprint>127 40</footprint>
+				</place>
+			</toponym>
+		</toponyms>
+	</entry>
+</entries>
